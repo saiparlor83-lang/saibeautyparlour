@@ -194,7 +194,7 @@ const Gallery = () => {
                                 Back to Gallery Categories
                             </button>
 
-                            <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-16 text-gray-900">{activeData.title}</h2>
+                            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-16 text-gray-900">{activeData.title}</h2>
 
                             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
                                 {activeData.images.map((imageName, idx) => (

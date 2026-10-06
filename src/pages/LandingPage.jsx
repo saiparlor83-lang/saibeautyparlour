@@ -334,7 +334,7 @@ const LandingPage = () => {
                 <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="text-center mb-16">
                         <h4 className="text-xs font-bold uppercase tracking-wider text-gray-800 mb-4">Services</h4>
-                        <h2 className="text-4xl md:text-5xl font-serif font-bold mb-6 text-gray-900">What we do best for you</h2>
+                        <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold mb-6 text-gray-900">What we do best for you</h2>
                         <p className="text-gray-600 max-w-2xl mx-auto text-sm md:text-base leading-relaxed">
                             At Sai Beauty Parlour, we understand that beauty is personal. Each service is tailored to bring out your best self.
                         </p>
@@ -362,7 +362,7 @@ const LandingPage = () => {
                 <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center relative overflow-hidden">
                     {/* Left Text */}
                     <div className="lg:col-span-4 z-10">
-                        <h2 className="text-4xl md:text-5xl font-serif font-bold mb-4 tracking-tight text-gray-900">Our gallery</h2>
+                        <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold mb-4 tracking-tight text-gray-900">Our gallery</h2>
                         <p className="text-xs sm:text-sm text-gray-600 max-w-sm">
                             A glimpse into the work we do every day at Aarfa Beauty Home.
                         </p>
@@ -462,12 +462,12 @@ const LandingPage = () => {
                     {/* Bottom part: Stats */}
                     <div className="flex flex-col gap-6 lg:gap-8 mt-8" ref={statsRef}>
                         <div className="w-full max-w-2xl">
-                            <h2 className="text-2xl md:text-3xl lg:text-4xl font-serif font-bold text-gray-900 leading-tight">
-                                Years of beauty, countless<br className="hidden sm:block" /> transformations
+                            <h2 className="text-3xl md:text-4xl font-serif font-bold text-gray-900 leading-tight">
+                                Years of beauty, countless transformations
                             </h2>
                         </div>
                         <div className="w-full">
-                            <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 sm:gap-4 md:gap-8">
+                            <div className="grid grid-cols-[repeat(auto-fit,minmax(160px,1fr))] gap-2 md:gap-2">
                                 <div className="border-l-[1px] border-gray-200 pl-6 md:pl-8 py-2 flex flex-col justify-center">
                                     <p className="text-4xl md:text-5xl font-bold text-gray-900 mb-3 font-sans tracking-tighter">{stats.years}+</p>
                                     <p className="text-sm md:text-base font-serif font-bold text-gray-900">Years in business</p>
@@ -528,7 +528,7 @@ const LandingPage = () => {
                     <div className="mb-16">
                         <p className="text-xs font-bold text-gray-900 mb-2">Team</p>
                         <div className="inline-block pr-16 mb-4">
-                            <h2 className="text-4xl md:text-5xl font-serif font-bold text-gray-900 leading-none pb-1">Our people</h2>
+                            <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-gray-900 leading-none pb-1">Our people</h2>
                         </div>
                         <p className="text-sm text-gray-600">Meet the artists who make Aarfa Beauty Home what it is.</p>
                     </div>
@@ -713,7 +713,7 @@ const LandingPage = () => {
             {/* Ready to Book Section */}
             <section className="w-full bg-gradient-to-br from-amber-50 via-white to-amber-50 text-black py-24 px-4 sm:px-6 lg:px-8 border-t border-gray-200">
                 <div className="max-w-6xl mx-auto text-center">
-                    <h2 className="text-4xl md:text-5xl font-serif font-bold mb-4 text-gray-900">Ready to book?</h2>
+                    <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif font-bold mb-4 text-gray-900">Ready to book?</h2>
                     <p className="text-gray-600 mb-8 max-w-2xl mx-auto text-sm md:text-base font-medium">
                         Schedule your appointment today and let us bring out your best.
                     </p>
@@ -741,7 +741,7 @@ const LandingPage = () => {
             <section className="w-full bg-white text-black py-24 px-4 sm:px-6 lg:px-8 border-t border-gray-200">
                 <div className="max-w-5xl mx-auto flex flex-col items-center">
                     <div className="text-center mb-16">
-                        <h2 className="text-4xl md:text-5xl font-serif font-bold mb-4 text-gray-900">FAQs</h2>
+                        <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold mb-4 text-gray-900">FAQs</h2>
                         <p className="text-gray-600 max-w-2xl mx-auto text-sm font-medium">
                             Find answers to common questions about our services and salon.
                         </p>

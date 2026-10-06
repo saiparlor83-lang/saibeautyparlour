@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
@@ -10,10 +10,11 @@ import NailsSpaServicesPage from './pages/NailsSpaServicesPage';
 import WeddingServicesPage from './pages/WeddingServicesPage';
 import ScrollToTop from './components/ScrollToTop';
 import CoursePage from './pages/CoursePage';
+import CourseDetail from './pages/CourseDetail';
 
 function App() {
   return (
-    <Router basename={import.meta.env.BASE_URL}>
+    <>
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<LandingPage />} />
@@ -26,8 +27,10 @@ function App() {
         <Route path="/services/wedding" element={<WeddingServicesPage />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/course" element={<CoursePage />} />
+        <Route path="courses" element={<CoursePage />} />
+        <Route path="courses/:slug" element={<CourseDetail />} />
       </Routes>
-    </Router>
+    </>
   );
 }
 
