@@ -1,0 +1,1749 @@
+{
+  "totalImages": 107,
+  "totalSizeBytes": 39640289,
+  "totalSizeMB": "37.80",
+  "counts": {
+    "over1MB": 3,
+    "over500KB": 19,
+    "over200KB": 61,
+    "under200KB": 24,
+    "unused": 22,
+    "duplicatesGroupCount": 1
+  },
+  "duplicates": [
+    [
+      "public/favicon.png",
+      "public/og-image.png",
+      "src/assets/images/nobg_sailogo.png"
+    ]
+  ],
+  "unusedImages": [
+    {
+      "path": "src/assets/images/team23.jpg",
+      "sizeKB": 583.5
+    },
+    {
+      "path": "src/assets/images/team28.jpg",
+      "sizeKB": 582.09
+    },
+    {
+      "path": "src/assets/images/latest26.jpg",
+      "sizeKB": 441.84
+    },
+    {
+      "path": "src/assets/images/team17.jpg",
+      "sizeKB": 415.3
+    },
+    {
+      "path": "src/assets/images/team7.jpg",
+      "sizeKB": 394.64
+    },
+    {
+      "path": "src/assets/images/team6.jpg",
+      "sizeKB": 385.07
+    },
+    {
+      "path": "src/assets/images/latest29.jpg",
+      "sizeKB": 349.75
+    },
+    {
+      "path": "src/assets/images/team22.jpg",
+      "sizeKB": 342.49
+    },
+    {
+      "path": "src/assets/images/team21.jpg",
+      "sizeKB": 318.75
+    },
+    {
+      "path": "src/assets/images/training9.jpg",
+      "sizeKB": 284.81
+    },
+    {
+      "path": "src/assets/images/training8.jpg",
+      "sizeKB": 272.48
+    },
+    {
+      "path": "src/assets/images/team8.jpg",
+      "sizeKB": 255.64
+    },
+    {
+      "path": "src/assets/images/new5.jpg",
+      "sizeKB": 246
+    },
+    {
+      "path": "src/assets/images/new8.jpg",
+      "sizeKB": 230.86
+    },
+    {
+      "path": "src/assets/images/training6.jpg",
+      "sizeKB": 223.36
+    },
+    {
+      "path": "src/assets/images/sai_gray_bg.png",
+      "sizeKB": 120.64
+    },
+    {
+      "path": "public/favicon.png",
+      "sizeKB": 120.09
+    },
+    {
+      "path": "public/og-image.png",
+      "sizeKB": 120.09
+    },
+    {
+      "path": "src/assets/images/sai_logo-removebg-preview.png",
+      "sizeKB": 113.27
+    },
+    {
+      "path": "src/assets/images/sai_bg_logo.png",
+      "sizeKB": 112.47
+    },
+    {
+      "path": "src/assets/images/mehandi1.jpg",
+      "sizeKB": 67.46
+    },
+    {
+      "path": "src/assets/images/latest23.jpg",
+      "sizeKB": 66.17
+    }
+  ],
+  "over1MB": [
+    {
+      "path": "src/assets/images/testimonial.png",
+      "sizeKB": 1802.97,
+      "dimensions": "1080x1920",
+      "refs": 1
+    },
+    {
+      "path": "src/assets/images/skincare.png",
+      "sizeKB": 1615.71,
+      "dimensions": "1152x2048",
+      "refs": 3
+    },
+    {
+      "path": "src/assets/images/parlour_frontimg.jpeg",
+      "sizeKB": 1084.18,
+      "dimensions": "4160x2340",
+      "refs": 5
+    }
+  ],
+  "over500KB": [
+    {
+      "path": "src/assets/images/sai_interior.jpeg",
+      "sizeKB": 963.79,
+      "dimensions": "2268x4032",
+      "refs": 3
+    },
+    {
+      "path": "src/assets/images/team18.jpg",
+      "sizeKB": 876.57,
+      "dimensions": "1536x2048",
+      "refs": 1
+    },
+    {
+      "path": "src/assets/images/sai_interior2.jpeg",
+      "sizeKB": 844.97,
+      "dimensions": "2268x4032",
+      "refs": 1
+    },
+    {
+      "path": "src/assets/images/team31.jpg",
+      "sizeKB": 793.69,
+      "dimensions": "1536x2048",
+      "refs": 1
+    },
+    {
+      "path": "src/assets/images/latest17.jpg",
+      "sizeKB": 615.49,
+      "dimensions": "1536x2048",
+      "refs": 1
+    },
+    {
+      "path": "src/assets/images/team1.jpg",
+      "sizeKB": 588.16,
+      "dimensions": "2048x1536",
+      "refs": 3
+    },
+    {
+      "path": "src/assets/images/team23.jpg",
+      "sizeKB": 583.5,
+      "dimensions": "1536x2048",
+      "refs": 0
+    },
+    {
+      "path": "src/assets/images/team28.jpg",
+      "sizeKB": 582.09,
+      "dimensions": "1536x2048",
+      "refs": 0
+    },
+    {
+      "path": "src/assets/images/sanu1.jpg",
+      "sizeKB": 566.52,
+      "dimensions": "1536x2048",
+      "refs": 3
+    },
+    {
+      "path": "src/assets/images/latest18.jpg",
+      "sizeKB": 565.33,
+      "dimensions": "1536x2048",
+      "refs": 1
+    },
+    {
+      "path": "src/assets/images/latest13.jpg",
+      "sizeKB": 560.77,
+      "dimensions": "1536x2048",
+      "refs": 2
+    },
+    {
+      "path": "src/assets/images/latest10.jpg",
+      "sizeKB": 557.41,
+      "dimensions": "1536x2048",
+      "refs": 2
+    },
+    {
+      "path": "src/assets/images/latest5.jpg",
+      "sizeKB": 555.57,
+      "dimensions": "1536x2048",
+      "refs": 2
+    },
+    {
+      "path": "src/assets/images/team29.jpg",
+      "sizeKB": 553.99,
+      "dimensions": "1536x2048",
+      "refs": 1
+    },
+    {
+      "path": "src/assets/images/team16.jpg",
+      "sizeKB": 547.3,
+      "dimensions": "1440x1800",
+      "refs": 1
+    },
+    {
+      "path": "src/assets/images/latest9.jpg",
+      "sizeKB": 536.06,
+      "dimensions": "1536x2048",
+      "refs": 2
+    },
+    {
+      "path": "src/assets/images/latest20.jpg",
+      "sizeKB": 533.09,
+      "dimensions": "1536x2048",
+      "refs": 2
+    },
+    {
+      "path": "src/assets/images/new4.jpg",
+      "sizeKB": 532.56,
+      "dimensions": "1440x1800",
+      "refs": 1
+    },
+    {
+      "path": "src/assets/images/latest4.jpg",
+      "sizeKB": 509.37,
+      "dimensions": "1536x2048",
+      "refs": 2
+    }
+  ],
+  "allImages": [
+    {
+      "path": "src/assets/images/testimonial.png",
+      "filename": "testimonial.png",
+      "sizeBytes": 1846244,
+      "sizeKB": 1802.97,
+      "width": 1080,
+      "height": 1920,
+      "format": "png",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\LandingPage.tsx"
+      ],
+      "hash": "ec58e4df913688ada8386f86fc0ba0ade9d4ba69c193025ada55fa59f94e4d5e"
+    },
+    {
+      "path": "src/assets/images/skincare.png",
+      "filename": "skincare.png",
+      "sizeBytes": 1654484,
+      "sizeKB": 1615.71,
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "refCount": 3,
+      "references": [
+        "src\\components\\ServiceSlider.tsx",
+        "src\\data\\CourseData.ts",
+        "src\\pages\\SkincareServicesPage.tsx"
+      ],
+      "hash": "d15d03a744903041a588bcf9e38f2cb06bd3af708782c14316642b2e94137ac0"
+    },
+    {
+      "path": "src/assets/images/parlour_frontimg.jpeg",
+      "filename": "parlour_frontimg.jpeg",
+      "sizeBytes": 1110199,
+      "sizeKB": 1084.18,
+      "width": 4160,
+      "height": 2340,
+      "format": "jpeg",
+      "refCount": 5,
+      "references": [
+        "src\\components\\SEO.tsx",
+        "src\\data\\CourseData.ts",
+        "src\\pages\\CoursePage.tsx",
+        "src\\pages\\GalleryPage.tsx",
+        "src\\pages\\LandingPage.tsx"
+      ],
+      "hash": "59e2067b0cd6a07ed795e135931b59eb1cf0614b0a8dff69360065527eaff7d7"
+    },
+    {
+      "path": "src/assets/images/sai_interior.jpeg",
+      "filename": "sai_interior.jpeg",
+      "sizeBytes": 986924,
+      "sizeKB": 963.79,
+      "width": 2268,
+      "height": 4032,
+      "format": "jpeg",
+      "refCount": 3,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\AboutPage.tsx",
+        "src\\pages\\LandingPage.tsx"
+      ],
+      "hash": "8e3cd12c989cba3e65c64d06063ebf8f8d08911b82144278940cfa1101b38349"
+    },
+    {
+      "path": "src/assets/images/team18.jpg",
+      "filename": "team18.jpg",
+      "sizeBytes": 897606,
+      "sizeKB": 876.57,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "84b73a36970a4b60b67b91555e9c19fe46dcfedcace504d417fdf8e07ad81fc2"
+    },
+    {
+      "path": "src/assets/images/sai_interior2.jpeg",
+      "filename": "sai_interior2.jpeg",
+      "sizeBytes": 865253,
+      "sizeKB": 844.97,
+      "width": 2268,
+      "height": 4032,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\AboutPage.tsx"
+      ],
+      "hash": "dad27d779754f21fa3c70a8a9163e4b85d1525788349d55027fdae5be53b28bc"
+    },
+    {
+      "path": "src/assets/images/team31.jpg",
+      "filename": "team31.jpg",
+      "sizeBytes": 812737,
+      "sizeKB": 793.69,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "e0cdb58de5ab133459dfabb9a04c15e0b15bb6b4e2280d072509d390a973fabd"
+    },
+    {
+      "path": "src/assets/images/latest17.jpg",
+      "filename": "latest17.jpg",
+      "sizeBytes": 630263,
+      "sizeKB": 615.49,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "c9ace1d28d56c31d30f619e4dc8601af5500a0fe29e1dd29e08cde7b264d9e91"
+    },
+    {
+      "path": "src/assets/images/team1.jpg",
+      "filename": "team1.jpg",
+      "sizeBytes": 602278,
+      "sizeKB": 588.16,
+      "width": 2048,
+      "height": 1536,
+      "format": "jpeg",
+      "refCount": 3,
+      "references": [
+        "src\\pages\\AboutPage.tsx",
+        "src\\pages\\GalleryPage.tsx",
+        "src\\pages\\LandingPage.tsx"
+      ],
+      "hash": "dd0d1c0f16804a15cba299f22a6827d57829f43458faa92c4acc308fba740e05"
+    },
+    {
+      "path": "src/assets/images/team23.jpg",
+      "filename": "team23.jpg",
+      "sizeBytes": 597502,
+      "sizeKB": 583.5,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "9334af87fb365a46c76a7ac612b7cd8eb406b78c8e676f84bf110186ccc140c9"
+    },
+    {
+      "path": "src/assets/images/team28.jpg",
+      "filename": "team28.jpg",
+      "sizeBytes": 596056,
+      "sizeKB": 582.09,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "bdb0cc3d557375cd02182fc446ef5d3648acf3bba8afc9c4c1b86a323cccb3d2"
+    },
+    {
+      "path": "src/assets/images/sanu1.jpg",
+      "filename": "sanu1.jpg",
+      "sizeBytes": 580115,
+      "sizeKB": 566.52,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 3,
+      "references": [
+        "src\\pages\\AboutPage.tsx",
+        "src\\pages\\CoursePage.tsx",
+        "src\\pages\\LandingPage.tsx"
+      ],
+      "hash": "c980393547a269a9a6df5abb3e8c000878f527004306153e013625622ec683ea"
+    },
+    {
+      "path": "src/assets/images/latest18.jpg",
+      "filename": "latest18.jpg",
+      "sizeBytes": 578894,
+      "sizeKB": 565.33,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\components\\GallerySlider.tsx"
+      ],
+      "hash": "092f8bb46814b702879832b6a870cba3839894d1102a3848fd0a53be6ba069c9"
+    },
+    {
+      "path": "src/assets/images/latest13.jpg",
+      "filename": "latest13.jpg",
+      "sizeBytes": 574228,
+      "sizeKB": 560.77,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "a3d3a5e69484aae8bb1c35939e972f3c04e89c5a2a9c61ec615520c9ddd401ef"
+    },
+    {
+      "path": "src/assets/images/latest10.jpg",
+      "filename": "latest10.jpg",
+      "sizeBytes": 570787,
+      "sizeKB": 557.41,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "5c307c4471f921e8dd2204bd43772e65b78cae3f4ec443b978a0c0b602e39808"
+    },
+    {
+      "path": "src/assets/images/latest5.jpg",
+      "filename": "latest5.jpg",
+      "sizeBytes": 568901,
+      "sizeKB": 555.57,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "9fdcd9f7165d254d33c6679a821aca28c5096634abc0be37036f1c8f3008e29b"
+    },
+    {
+      "path": "src/assets/images/team29.jpg",
+      "filename": "team29.jpg",
+      "sizeBytes": 567284,
+      "sizeKB": 553.99,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "7cc6455ac3eec890372d5b72f01424cf3aa07c9c1b25f0176c15a2613a3d25e4"
+    },
+    {
+      "path": "src/assets/images/team16.jpg",
+      "filename": "team16.jpg",
+      "sizeBytes": 560433,
+      "sizeKB": 547.3,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "daaa59f750d2dc183d0d9eb33dee20134cdbc76041a4f81f4fb447130171daf7"
+    },
+    {
+      "path": "src/assets/images/latest9.jpg",
+      "filename": "latest9.jpg",
+      "sizeBytes": 548926,
+      "sizeKB": 536.06,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "2ce5e77ffa434186436a5454d0988ef5579ecfbe13c80df9f3d4b85bbd69f766"
+    },
+    {
+      "path": "src/assets/images/latest20.jpg",
+      "filename": "latest20.jpg",
+      "sizeBytes": 545887,
+      "sizeKB": 533.09,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\components\\GallerySlider.tsx",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "44833937e86de8d7c98bc067dc97f50d14217cf8de325b769184e09c1d32875e"
+    },
+    {
+      "path": "src/assets/images/new4.jpg",
+      "filename": "new4.jpg",
+      "sizeBytes": 545338,
+      "sizeKB": 532.56,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "8bca20306946fa41ae86872d67341ac23c55d67e3841b800f06a631d5e99d81d"
+    },
+    {
+      "path": "src/assets/images/latest4.jpg",
+      "filename": "latest4.jpg",
+      "sizeBytes": 521590,
+      "sizeKB": 509.37,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "ce5f1bc627f120abc5f0dc6924477a30cce884d63cdac910afd303bef54d783f"
+    },
+    {
+      "path": "src/assets/images/latest24.jpg",
+      "filename": "latest24.jpg",
+      "sizeBytes": 508667,
+      "sizeKB": 496.75,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "53e51b641081279a22e6131d4b4cee19a1d2d0bcd155c3fc880b9c70f04ea09b"
+    },
+    {
+      "path": "src/assets/images/team26.jpg",
+      "filename": "team26.jpg",
+      "sizeBytes": 503621,
+      "sizeKB": 491.82,
+      "width": 2048,
+      "height": 1536,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "e638af98212fad6cab4ce76960b1dc0fb3b6b312b37feac3a8841e404fdca655"
+    },
+    {
+      "path": "src/assets/images/latest3.jpg",
+      "filename": "latest3.jpg",
+      "sizeBytes": 491202,
+      "sizeKB": 479.69,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 3,
+      "references": [
+        "src\\components\\GallerySlider.tsx",
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "2756c26bc136f2e288f18cdd1d2a99f9e94bcdc3be7ef203fb4b25b8071d32b6"
+    },
+    {
+      "path": "src/assets/images/latest6.jpg",
+      "filename": "latest6.jpg",
+      "sizeBytes": 477263,
+      "sizeKB": 466.08,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\data\\CourseData.ts"
+      ],
+      "hash": "def7a63e0255e876ebd15ab47acc752eea3e2b92769e6b70c0342a0ea3b13606"
+    },
+    {
+      "path": "src/assets/images/sai3.jpg",
+      "filename": "sai3.jpg",
+      "sizeBytes": 462160,
+      "sizeKB": 451.33,
+      "width": 1287,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 8,
+      "references": [
+        "src\\components\\GallerySlider.tsx",
+        "src\\components\\ServiceSlider.tsx",
+        "src\\data\\CourseData.ts",
+        "src\\pages\\AboutPage.tsx",
+        "src\\pages\\CoursePage.tsx",
+        "src\\pages\\GalleryPage.tsx",
+        "src\\pages\\LandingPage.tsx",
+        "src\\pages\\MakeupServicesPage.tsx"
+      ],
+      "hash": "4ad9b4efa0146493bbd11382db4d6e1ccc302c8caa1badc6093267d7ad9a27d9"
+    },
+    {
+      "path": "src/assets/images/latest26.jpg",
+      "filename": "latest26.jpg",
+      "sizeBytes": 452444,
+      "sizeKB": 441.84,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "fdce73500217cc887c1b50bcfe3e2aa910c4bb7ef1312aac7a1a47b7334d6f46"
+    },
+    {
+      "path": "src/assets/images/team32.jpg",
+      "filename": "team32.jpg",
+      "sizeBytes": 433845,
+      "sizeKB": 423.68,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "dadee64ee895136f17cf161b66d9d96bdc2f6a8a0ce781000c16cf2261d4c56a"
+    },
+    {
+      "path": "src/assets/images/team17.jpg",
+      "filename": "team17.jpg",
+      "sizeBytes": 425270,
+      "sizeKB": 415.3,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "8e966fd731ae339bfbb3346f9bb2e438939128a5e4c331399f2b7d6708c26fed"
+    },
+    {
+      "path": "src/assets/images/team40.jpg",
+      "filename": "team40.jpg",
+      "sizeBytes": 423987,
+      "sizeKB": 414.05,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "1dbaab2550c2835b8eeb3bd0a2bbdb7b1154c81cc13d40494b81ccfe60d377f4"
+    },
+    {
+      "path": "src/assets/images/team19.jpg",
+      "filename": "team19.jpg",
+      "sizeBytes": 420013,
+      "sizeKB": 410.17,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "01ed7aaf3dc61712444f3fe667bb888159928768118322250bd1d138606d953f"
+    },
+    {
+      "path": "src/assets/images/team37.jpg",
+      "filename": "team37.jpg",
+      "sizeBytes": 416992,
+      "sizeKB": 407.22,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "7b5e3a75dab2ecf0e547bfc5a2b1352052d60cc0d03443bc9b2c4ab06f8a436b"
+    },
+    {
+      "path": "src/assets/images/team7.jpg",
+      "filename": "team7.jpg",
+      "sizeBytes": 404112,
+      "sizeKB": 394.64,
+      "width": 2048,
+      "height": 1536,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "c4ce4e8804e231c6ea871e6f5be3c549edc24803a3271a300e04c958d39ac2d5"
+    },
+    {
+      "path": "src/assets/images/team27.jpg",
+      "filename": "team27.jpg",
+      "sizeBytes": 399079,
+      "sizeKB": 389.73,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "26f2d4910c2fff0b0742df1d33429cfe4dae9525caf896e7b8745c218ec2ffb2"
+    },
+    {
+      "path": "src/assets/images/team6.jpg",
+      "filename": "team6.jpg",
+      "sizeBytes": 394315,
+      "sizeKB": 385.07,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "5da123b6f4d47112deb6c5d02daf92e7f97d3d006b30ad6d92aa23f56b899e72"
+    },
+    {
+      "path": "src/assets/images/latest1.jpg",
+      "filename": "latest1.jpg",
+      "sizeBytes": 387666,
+      "sizeKB": 378.58,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "5dc6fcf3b191878e5199d88d2d9dc74fd301f8c44e213361989bfb9bbd0002cc"
+    },
+    {
+      "path": "src/assets/images/team30.jpg",
+      "filename": "team30.jpg",
+      "sizeBytes": 382958,
+      "sizeKB": 373.98,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "75697cdf352fa7af85780cfaffd4163cf746b510fb80e6396302a0638c8ec1b5"
+    },
+    {
+      "path": "src/assets/images/training1.jpg",
+      "filename": "training1.jpg",
+      "sizeBytes": 378985,
+      "sizeKB": 370.1,
+      "width": 2048,
+      "height": 1536,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\pages\\CoursePage.tsx",
+        "src\\pages\\LandingPage.tsx"
+      ],
+      "hash": "03339b193558d8ea236cc02cb876150e5adee5bcc8904fa9b580bdceb82002c9"
+    },
+    {
+      "path": "src/assets/images/latest8.jpg",
+      "filename": "latest8.jpg",
+      "sizeBytes": 376126,
+      "sizeKB": 367.31,
+      "width": 1290,
+      "height": 1706,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "a0e7692a0ddfc0670153bfe34941b5c2f27300637f2417cf0cf06ec99bf43bf7"
+    },
+    {
+      "path": "src/assets/images/team20.jpg",
+      "filename": "team20.jpg",
+      "sizeBytes": 373665,
+      "sizeKB": 364.91,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "4349253109d95f65fa013b7edbeaa1c19775eedbb6b20166d945476ae7c86791"
+    },
+    {
+      "path": "src/assets/images/sai1.jpg",
+      "filename": "sai1.jpg",
+      "sizeBytes": 373302,
+      "sizeKB": 364.55,
+      "width": 1334,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 4,
+      "references": [
+        "src\\components\\ServiceSlider.tsx",
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx",
+        "src\\pages\\WeddingServicesPage.tsx"
+      ],
+      "hash": "b4bf2b890d8721aa7d23e48f3ad83bdf89a43fffcf1884e1363a61d3c0bd0307"
+    },
+    {
+      "path": "src/assets/images/team38.jpg",
+      "filename": "team38.jpg",
+      "sizeBytes": 372468,
+      "sizeKB": 363.74,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "0e8215d81153242f5523c40e793a0e468fa88a86dbba63caa105c3f5660071f5"
+    },
+    {
+      "path": "src/assets/images/team39.jpg",
+      "filename": "team39.jpg",
+      "sizeBytes": 367850,
+      "sizeKB": 359.23,
+      "width": 1440,
+      "height": 1920,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "7c95f17b4028fb2861f069512e52f3a24e31cc7c526faf636939771341ca8851"
+    },
+    {
+      "path": "src/assets/images/latest25.jpg",
+      "filename": "latest25.jpg",
+      "sizeBytes": 363520,
+      "sizeKB": 355,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "f1e68c155b6cdfb63ad05afe3e75667e305c0b87e01ca97e6044ed1bbbded32e"
+    },
+    {
+      "path": "src/assets/images/latest29.jpg",
+      "filename": "latest29.jpg",
+      "sizeBytes": 358146,
+      "sizeKB": 349.75,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "e289df78cfcfe1a5c36b61474cf08695640b9dd06511eaf4cac273127e5d8997"
+    },
+    {
+      "path": "src/assets/images/team22.jpg",
+      "filename": "team22.jpg",
+      "sizeBytes": 350711,
+      "sizeKB": 342.49,
+      "width": 2048,
+      "height": 1536,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "1c685d613b1603d08ee39f4373a136532c528c5b68a3e4071b90c7fe05fd8a4c"
+    },
+    {
+      "path": "src/assets/images/team3.jpg",
+      "filename": "team3.jpg",
+      "sizeBytes": 341160,
+      "sizeKB": 333.16,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\pages\\AboutPage.tsx",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "b6051376caa1897dc7c5178a06e4c702f28d47eb0c3822a10d5c0291c256b21c"
+    },
+    {
+      "path": "src/assets/images/latest2.jpg",
+      "filename": "latest2.jpg",
+      "sizeBytes": 336765,
+      "sizeKB": 328.87,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "a21bddbcf2ea8e6f91cd2e0c1f2b7fc8a1291ce10516186b86a73a27b6373428"
+    },
+    {
+      "path": "src/assets/images/team24.jpg",
+      "filename": "team24.jpg",
+      "sizeBytes": 331932,
+      "sizeKB": 324.15,
+      "width": 2016,
+      "height": 1512,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "58753f33cd51190ce4585351ee42e5d056dffe3b43e48e144dd9f490d5adee4c"
+    },
+    {
+      "path": "src/assets/images/team21.jpg",
+      "filename": "team21.jpg",
+      "sizeBytes": 326400,
+      "sizeKB": 318.75,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "f86a8fa62c7e65b5618f3bf2522f4f8b12e3ed68afbab0bfed7802660f135a09"
+    },
+    {
+      "path": "src/assets/images/team5.jpg",
+      "filename": "team5.jpg",
+      "sizeBytes": 317561,
+      "sizeKB": 310.12,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "e1f5d91ce27762d3e77dd18a574a3bd30c95aa7626f8db15765826941ca1d285"
+    },
+    {
+      "path": "src/assets/images/new7.jpg",
+      "filename": "new7.jpg",
+      "sizeBytes": 316410,
+      "sizeKB": 308.99,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "f84ad7309a584cc7e2e9974457383d347e98b87ec4453f0858a026ff908c1021"
+    },
+    {
+      "path": "src/assets/images/team25.jpg",
+      "filename": "team25.jpg",
+      "sizeBytes": 312073,
+      "sizeKB": 304.76,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "5c9fe5c597e02626d07c2b8f63e74259ef96986550c66590a18ef4fbeba57460"
+    },
+    {
+      "path": "src/assets/images/team41.jpg",
+      "filename": "team41.jpg",
+      "sizeBytes": 310704,
+      "sizeKB": 303.42,
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "7f46049befb989687f925aaa83a49b87c555e8fba76b9a0dccab996d4d454bbc"
+    },
+    {
+      "path": "src/assets/images/team2.jpg",
+      "filename": "team2.jpg",
+      "sizeBytes": 300136,
+      "sizeKB": 293.1,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\pages\\AboutPage.tsx",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "25f8206ed70c0f6bc8b20d5bfccd727a087439d9b19fa43c9f9b5b2c17a55a7f"
+    },
+    {
+      "path": "src/assets/images/latest14.jpg",
+      "filename": "latest14.jpg",
+      "sizeBytes": 293743,
+      "sizeKB": 286.86,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "b0dc179d9a9ef4775d22575a26dc041a54ae363b14317e1b15cff4d502bb79cc"
+    },
+    {
+      "path": "src/assets/images/latest15.jpg",
+      "filename": "latest15.jpg",
+      "sizeBytes": 292590,
+      "sizeKB": 285.73,
+      "width": 1316,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "925eb2bcc3560eeca281f5c67bbb02aefd8e82c7d375c945e95c779d7c20f882"
+    },
+    {
+      "path": "src/assets/images/training9.jpg",
+      "filename": "training9.jpg",
+      "sizeBytes": 291644,
+      "sizeKB": 284.81,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "42c7c86ed9a6c58cc11880d1cc931bd7aa95eea8c7e9ba1f9b90577f9640bd5c"
+    },
+    {
+      "path": "src/assets/images/latest19.jpg",
+      "filename": "latest19.jpg",
+      "sizeBytes": 288202,
+      "sizeKB": 281.45,
+      "width": 1282,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\components\\GallerySlider.tsx"
+      ],
+      "hash": "256bbdeb51c4fc993367636924c6ccc5e0b3189c51f69ff843bc8d76234004a3"
+    },
+    {
+      "path": "src/assets/images/new3.jpg",
+      "filename": "new3.jpg",
+      "sizeBytes": 285569,
+      "sizeKB": 278.88,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "99809db47ae5848523d86190bbe904b866e7f1fc6db6585595f50f50ffb626ec"
+    },
+    {
+      "path": "src/assets/images/latest11.jpg",
+      "filename": "latest11.jpg",
+      "sizeBytes": 285053,
+      "sizeKB": 278.37,
+      "width": 1290,
+      "height": 1711,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\data\\CourseData.ts"
+      ],
+      "hash": "7e08939e480117f5282620ec78d9b660842bba823977ecd820aae290d0708047"
+    },
+    {
+      "path": "src/assets/images/training8.jpg",
+      "filename": "training8.jpg",
+      "sizeBytes": 279017,
+      "sizeKB": 272.48,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "62a18bdce8ed5546adb9d55bde20511779f5d71e2fca48ab14f371c0e4a063dc"
+    },
+    {
+      "path": "src/assets/images/training7.jpg",
+      "filename": "training7.jpg",
+      "sizeBytes": 278203,
+      "sizeKB": 271.68,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\CoursePage.tsx"
+      ],
+      "hash": "7e8c7923a5490f6c1e57e9dca5cc4579a6de60cb305d8f04bc6790ac1343eea6"
+    },
+    {
+      "path": "src/assets/images/latest16.jpg",
+      "filename": "latest16.jpg",
+      "sizeBytes": 276890,
+      "sizeKB": 270.4,
+      "width": 1348,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "6792470d2e6a1de8ea65f3377f8fc7224dbe7083df65dfbcfc30e82b89168dfa"
+    },
+    {
+      "path": "src/assets/images/new6.jpg",
+      "filename": "new6.jpg",
+      "sizeBytes": 274384,
+      "sizeKB": 267.95,
+      "width": 1440,
+      "height": 1799,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "f4f5f694ea4f6f68f86a6c013ba4372a54c1745561c24e6b1a6b3b47ce5887ff"
+    },
+    {
+      "path": "src/assets/images/team35.jpg",
+      "filename": "team35.jpg",
+      "sizeBytes": 271222,
+      "sizeKB": 264.87,
+      "width": 1320,
+      "height": 1758,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "89a420ebfb6c8bc4cc9d9c2ff8e02008575f71e08c74c45493dc7574a4f832f1"
+    },
+    {
+      "path": "src/assets/images/training2.jpg",
+      "filename": "training2.jpg",
+      "sizeBytes": 270282,
+      "sizeKB": 263.95,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\CoursePage.tsx"
+      ],
+      "hash": "cfdf9d8b21a93a25466fabaedaf89218f5e2893659358848c1e200d6532f8928"
+    },
+    {
+      "path": "src/assets/images/training5.jpg",
+      "filename": "training5.jpg",
+      "sizeBytes": 270113,
+      "sizeKB": 263.78,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\CoursePage.tsx"
+      ],
+      "hash": "511d78674be03496941f92a072e9ba22e4a96cc47c2878b018042e1c0911b03a"
+    },
+    {
+      "path": "src/assets/images/training3.jpg",
+      "filename": "training3.jpg",
+      "sizeBytes": 269455,
+      "sizeKB": 263.14,
+      "width": 2048,
+      "height": 1536,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\CoursePage.tsx"
+      ],
+      "hash": "0cee350922200ae00eda9f0458912101342251f6172d164be33d19d78cc84b8e"
+    },
+    {
+      "path": "src/assets/images/latest21.jpg",
+      "filename": "latest21.jpg",
+      "sizeBytes": 269049,
+      "sizeKB": 262.74,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\components\\GallerySlider.tsx",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "a8fe2e2bb1f8f3d49de8b2d5746793d6f119c36478cac8e89dfdcbb285876bed"
+    },
+    {
+      "path": "src/assets/images/team15.jpg",
+      "filename": "team15.jpg",
+      "sizeBytes": 266590,
+      "sizeKB": 260.34,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "58401f618762d17a78c9ce2331a338361f06a269c793a12dbae6e328eddc3d9a"
+    },
+    {
+      "path": "src/assets/images/latest27.jpg",
+      "filename": "latest27.jpg",
+      "sizeBytes": 263743,
+      "sizeKB": 257.56,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "282ccd740a042c96b19f431d0b4519fc7669847ed0c62a1a46605a78f3d36cd5"
+    },
+    {
+      "path": "src/assets/images/team8.jpg",
+      "filename": "team8.jpg",
+      "sizeBytes": 261776,
+      "sizeKB": 255.64,
+      "width": 1538,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "a7f74cdca5a532c3b8ce09e441b6ed4ee977c1af51486a8f1e6f207900b2aa58"
+    },
+    {
+      "path": "src/assets/images/team11.jpg",
+      "filename": "team11.jpg",
+      "sizeBytes": 256576,
+      "sizeKB": 250.56,
+      "width": 1600,
+      "height": 1200,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "91bfc46e0f6cf3cd54929b5cc67fe77253e3bf8e6f0e33d869c2d58bafe8dedf"
+    },
+    {
+      "path": "src/assets/images/new5.jpg",
+      "filename": "new5.jpg",
+      "sizeBytes": 251907,
+      "sizeKB": 246,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "1a95d8c24789e8230d361c03584b95b48a1c05d9cb142884a0040fd4be8e1836"
+    },
+    {
+      "path": "src/assets/images/team34.jpg",
+      "filename": "team34.jpg",
+      "sizeBytes": 250482,
+      "sizeKB": 244.61,
+      "width": 1320,
+      "height": 1758,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "8a0aeec2de99fc2991177bbaf540d3decaf020fb7fdf32c9813de27e3761434a"
+    },
+    {
+      "path": "src/assets/images/training4.jpg",
+      "filename": "training4.jpg",
+      "sizeBytes": 249497,
+      "sizeKB": 243.65,
+      "width": 1536,
+      "height": 2048,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\CoursePage.tsx"
+      ],
+      "hash": "a9a98b556979bf88ade87cfc8ef457012248190c06d2cf8ba3567e2c7e5ba89f"
+    },
+    {
+      "path": "src/assets/images/team36.jpg",
+      "filename": "team36.jpg",
+      "sizeBytes": 246528,
+      "sizeKB": 240.75,
+      "width": 1320,
+      "height": 1758,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "b35754d3413fe528a473839b3a329e2c7f41bfb472986bebcc9cbe109248cb13"
+    },
+    {
+      "path": "src/assets/images/new1.jpg",
+      "filename": "new1.jpg",
+      "sizeBytes": 239679,
+      "sizeKB": 234.06,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\CoursePage.tsx"
+      ],
+      "hash": "98a26e71f3cbe0495ec7b5efb270bdf71bd774b7e80435e7a3c82dd9ab1e4fa1"
+    },
+    {
+      "path": "src/assets/images/new8.jpg",
+      "filename": "new8.jpg",
+      "sizeBytes": 236404,
+      "sizeKB": 230.86,
+      "width": 1440,
+      "height": 1796,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "59219b3bafbb0e38754c30bdd1d4a42e591faa239269950793d131f09d90ec7d"
+    },
+    {
+      "path": "src/assets/images/training6.jpg",
+      "filename": "training6.jpg",
+      "sizeBytes": 228720,
+      "sizeKB": 223.36,
+      "width": 1200,
+      "height": 1600,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "990fe83a981e126dcb9cd861c15030832f139c4831a024f76f8e311a2e1edc36"
+    },
+    {
+      "path": "src/assets/images/new2.jpg",
+      "filename": "new2.jpg",
+      "sizeBytes": 228394,
+      "sizeKB": 223.04,
+      "width": 1440,
+      "height": 1800,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\CoursePage.tsx"
+      ],
+      "hash": "905ce7bd83c5c3c29ce10a65b6a03ffec7701cf093a8e85d4ced95f81a4dcaea"
+    },
+    {
+      "path": "src/assets/images/sai_final_logo.png",
+      "filename": "sai_final_logo.png",
+      "sizeBytes": 196197,
+      "sizeKB": 191.6,
+      "width": 412,
+      "height": 412,
+      "format": "png",
+      "refCount": 1,
+      "references": [
+        "src\\components\\NavBar.tsx"
+      ],
+      "hash": "c77134f7e693d547e0287530efb23c2fedff855e4de7dd4b6fd24aacbe40fbdf"
+    },
+    {
+      "path": "src/assets/images/latest12.jpg",
+      "filename": "latest12.jpg",
+      "sizeBytes": 176893,
+      "sizeKB": 172.75,
+      "width": 2048,
+      "height": 1406,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "8e91ce588078584bb1d261409432a146b5a8e610eebe929f03eb55143acc4b3f"
+    },
+    {
+      "path": "src/assets/images/team10.jpg",
+      "filename": "team10.jpg",
+      "sizeBytes": 161635,
+      "sizeKB": 157.85,
+      "width": 1600,
+      "height": 1200,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "a95c43d2da731ce6d2f02fa0318c0422998922a8b0efa558e23c298522855c69"
+    },
+    {
+      "path": "src/assets/images/team9.jpg",
+      "filename": "team9.jpg",
+      "sizeBytes": 161488,
+      "sizeKB": 157.7,
+      "width": 1600,
+      "height": 1200,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "db4fc1157631d3a07a341575c3c0ea85b1706bb6cc74dc25624fca59e51eccb9"
+    },
+    {
+      "path": "src/assets/images/latest28.jpg",
+      "filename": "latest28.jpg",
+      "sizeBytes": 139354,
+      "sizeKB": 136.09,
+      "width": 720,
+      "height": 960,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "59ad6c9215d6506693e1550e888a63c120e4108279159ab29d28e4d98712e10c"
+    },
+    {
+      "path": "src/assets/images/sai_gray_bg.png",
+      "filename": "sai_gray_bg.png",
+      "sizeBytes": 123532,
+      "sizeKB": 120.64,
+      "width": 412,
+      "height": 412,
+      "format": "png",
+      "refCount": 0,
+      "references": [],
+      "hash": "ff852cd90bdee4c23c336648aac098268fbcf39a32b8a17469be7797b3a5f3eb"
+    },
+    {
+      "path": "public/favicon.png",
+      "filename": "favicon.png",
+      "sizeBytes": 122977,
+      "sizeKB": 120.09,
+      "width": 400,
+      "height": 400,
+      "format": "png",
+      "refCount": 0,
+      "references": [],
+      "hash": "08dba505a54bfe0530fb584a3681e6002c6013e3af02b342c5eab5ecc34f3bfe"
+    },
+    {
+      "path": "public/og-image.png",
+      "filename": "og-image.png",
+      "sizeBytes": 122977,
+      "sizeKB": 120.09,
+      "width": 400,
+      "height": 400,
+      "format": "png",
+      "refCount": 0,
+      "references": [],
+      "hash": "08dba505a54bfe0530fb584a3681e6002c6013e3af02b342c5eab5ecc34f3bfe"
+    },
+    {
+      "path": "src/assets/images/nobg_sailogo.png",
+      "filename": "nobg_sailogo.png",
+      "sizeBytes": 122977,
+      "sizeKB": 120.09,
+      "width": 400,
+      "height": 400,
+      "format": "png",
+      "refCount": 2,
+      "references": [
+        "src\\components\\Footer.tsx",
+        "src\\components\\NavBar.tsx"
+      ],
+      "hash": "08dba505a54bfe0530fb584a3681e6002c6013e3af02b342c5eab5ecc34f3bfe"
+    },
+    {
+      "path": "src/assets/images/course1.jpg",
+      "filename": "course1.jpg",
+      "sizeBytes": 119109,
+      "sizeKB": 116.32,
+      "width": 736,
+      "height": 981,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\LandingPage.tsx"
+      ],
+      "hash": "f14c062963d5b08f3a19ac31bb3855c1e013e813aace00feeb76d4794b232835"
+    },
+    {
+      "path": "src/assets/images/sai_logo-removebg-preview.png",
+      "filename": "sai_logo-removebg-preview.png",
+      "sizeBytes": 115986,
+      "sizeKB": 113.27,
+      "width": 400,
+      "height": 400,
+      "format": "png",
+      "refCount": 0,
+      "references": [],
+      "hash": "17e97f17f1a624f20fecc308353f47d4da31e20e2c506a6af103ade0f17ce3fa"
+    },
+    {
+      "path": "src/assets/images/sai_bg_logo.png",
+      "filename": "sai_bg_logo.png",
+      "sizeBytes": 115173,
+      "sizeKB": 112.47,
+      "width": 412,
+      "height": 412,
+      "format": "png",
+      "refCount": 0,
+      "references": [],
+      "hash": "985a8231d8c2cf1183ced8e000bc26fa38825e32ed85247e655eb9efa751d086"
+    },
+    {
+      "path": "src/assets/images/team33.jpg",
+      "filename": "team33.jpg",
+      "sizeBytes": 114770,
+      "sizeKB": 112.08,
+      "width": 720,
+      "height": 960,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "225f0858be6539f14fc5b8e8643e930ad09d58e7ac5f984b95aa3cc7f3552e66"
+    },
+    {
+      "path": "src/assets/images/hair.jpg",
+      "filename": "hair.jpg",
+      "sizeBytes": 94788,
+      "sizeKB": 92.57,
+      "width": 720,
+      "height": 960,
+      "format": "jpeg",
+      "refCount": 3,
+      "references": [
+        "src\\components\\ServiceSlider.tsx",
+        "src\\data\\CourseData.ts",
+        "src\\pages\\HairServicesPage.tsx"
+      ],
+      "hash": "b46084508b8d13b7712250a224382c49d877ea6a49e49191c6a6207836ce8959"
+    },
+    {
+      "path": "src/assets/images/latest7.jpg",
+      "filename": "latest7.jpg",
+      "sizeBytes": 92240,
+      "sizeKB": 90.08,
+      "width": 720,
+      "height": 960,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\data\\CourseData.ts"
+      ],
+      "hash": "37c55f097a6f40df62960d8529a49fdb6dcb2363e4337ee9bf69dc881f2c4031"
+    },
+    {
+      "path": "src/assets/images/course2.jpg",
+      "filename": "course2.jpg",
+      "sizeBytes": 89665,
+      "sizeKB": 87.56,
+      "width": 736,
+      "height": 1104,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\data\\CourseData.ts"
+      ],
+      "hash": "122c94707d2b5b01fb930768b8c2e406875a7855ad109e3cc0cb2e899fc21384"
+    },
+    {
+      "path": "src/assets/images/mehandi1.jpg",
+      "filename": "mehandi1.jpg",
+      "sizeBytes": 69083,
+      "sizeKB": 67.46,
+      "width": 540,
+      "height": 960,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "ba5a5678ed035a50fbf7c4cc43efcbb55e1129ecdf5d89a2265a8a1be39effb7"
+    },
+    {
+      "path": "src/assets/images/latest23.jpg",
+      "filename": "latest23.jpg",
+      "sizeBytes": 67759,
+      "sizeKB": 66.17,
+      "width": 640,
+      "height": 960,
+      "format": "jpeg",
+      "refCount": 0,
+      "references": [],
+      "hash": "872b3b6fd3146a881b231b5d992c90802f6181853aa9d4130f8474432e4a4c75"
+    },
+    {
+      "path": "src/assets/images/team13.jpg",
+      "filename": "team13.jpg",
+      "sizeBytes": 66913,
+      "sizeKB": 65.34,
+      "width": 960,
+      "height": 720,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "cd595815b19e48bdea15c30ae7a1f87e2db52525f909dfdf9c4bd1c6311fa94f"
+    },
+    {
+      "path": "src/assets/images/team14.jpg",
+      "filename": "team14.jpg",
+      "sizeBytes": 61579,
+      "sizeKB": 60.14,
+      "width": 768,
+      "height": 960,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "94e1dd51a477073a6737a7379e5a23597b771cb1934aa3b134095012ad819605"
+    },
+    {
+      "path": "src/assets/images/latest22.jpg",
+      "filename": "latest22.jpg",
+      "sizeBytes": 53615,
+      "sizeKB": 52.36,
+      "width": 640,
+      "height": 960,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "e0f2ca586c4dd8e7dfc7a3cabd4e1d55e15e3756b2ed53b3b999e96c8acc261e"
+    },
+    {
+      "path": "src/assets/images/team12.jpg",
+      "filename": "team12.jpg",
+      "sizeBytes": 50862,
+      "sizeKB": 49.67,
+      "width": 960,
+      "height": 720,
+      "format": "jpeg",
+      "refCount": 1,
+      "references": [
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "995e2cb4d84212bfb15d7beaa6808be2058fb31e4891c9d7f2fd036e95dfd97c"
+    },
+    {
+      "path": "src/assets/images/party.jpg",
+      "filename": "party.jpg",
+      "sizeBytes": 37074,
+      "sizeKB": 36.21,
+      "width": 640,
+      "height": 960,
+      "format": "jpeg",
+      "refCount": 2,
+      "references": [
+        "src\\data\\CourseData.ts",
+        "src\\pages\\GalleryPage.tsx"
+      ],
+      "hash": "9e26214b3a80c58d82e953556af6af320c9bcc37b33a09aa59919d8faa95e089"
+    },
+    {
+      "path": "src/assets/images/nails.jpg",
+      "filename": "nails.jpg",
+      "sizeBytes": 34494,
+      "sizeKB": 33.69,
+      "width": 474,
+      "height": 711,
+      "format": "jpeg",
+      "refCount": 3,
+      "references": [
+        "src\\components\\ServiceSlider.tsx",
+        "src\\data\\CourseData.ts",
+        "src\\pages\\NailsSpaServicesPage.tsx"
+      ],
+      "hash": "4bc959a2839e068cf7081d07f04d5bc1b1aefeb91eca41ae281c7d5b3505d7a4"
+    }
+  ]
+}

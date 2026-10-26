@@ -1,0 +1,1128 @@
+{
+  "totalOriginal": 40314154,
+  "totalOptimized": 14451778,
+  "totalSaved": 25862376,
+  "totalReduction": 64.15,
+  "results": [
+    {
+      "originalFile": "course1.jpg",
+      "outputFile": "course1.webp",
+      "originalSize": 119109,
+      "optimizedSize": 95454,
+      "originalDims": "736x981",
+      "optimizedDims": "736x981",
+      "savedBytes": 23655,
+      "reductionPercent": 19.86
+    },
+    {
+      "originalFile": "course2.jpg",
+      "outputFile": "course2.webp",
+      "originalSize": 89665,
+      "optimizedSize": 56714,
+      "originalDims": "736x1104",
+      "optimizedDims": "720x1080",
+      "savedBytes": 32951,
+      "reductionPercent": 36.75
+    },
+    {
+      "originalFile": "hair.jpg",
+      "outputFile": "hair.webp",
+      "originalSize": 94788,
+      "optimizedSize": 97724,
+      "originalDims": "720x960",
+      "optimizedDims": "720x960",
+      "savedBytes": -2936,
+      "reductionPercent": -3.1
+    },
+    {
+      "originalFile": "latest1.jpg",
+      "outputFile": "latest1.webp",
+      "originalSize": 387666,
+      "optimizedSize": 158484,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 229182,
+      "reductionPercent": 59.12
+    },
+    {
+      "originalFile": "latest10.jpg",
+      "outputFile": "latest10.webp",
+      "originalSize": 570787,
+      "optimizedSize": 249448,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 321339,
+      "reductionPercent": 56.3
+    },
+    {
+      "originalFile": "latest11.jpg",
+      "outputFile": "latest11.webp",
+      "originalSize": 285053,
+      "optimizedSize": 169876,
+      "originalDims": "1290x1711",
+      "optimizedDims": "814x1080",
+      "savedBytes": 115177,
+      "reductionPercent": 40.41
+    },
+    {
+      "originalFile": "latest12.jpg",
+      "outputFile": "latest12.webp",
+      "originalSize": 176893,
+      "optimizedSize": 69588,
+      "originalDims": "2048x1406",
+      "optimizedDims": "1080x741",
+      "savedBytes": 107305,
+      "reductionPercent": 60.66
+    },
+    {
+      "originalFile": "latest13.jpg",
+      "outputFile": "latest13.webp",
+      "originalSize": 574228,
+      "optimizedSize": 253924,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 320304,
+      "reductionPercent": 55.78
+    },
+    {
+      "originalFile": "latest14.jpg",
+      "outputFile": "latest14.webp",
+      "originalSize": 293743,
+      "optimizedSize": 116068,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 177675,
+      "reductionPercent": 60.49
+    },
+    {
+      "originalFile": "latest15.jpg",
+      "outputFile": "latest15.webp",
+      "originalSize": 292590,
+      "optimizedSize": 124856,
+      "originalDims": "1316x2048",
+      "optimizedDims": "694x1080",
+      "savedBytes": 167734,
+      "reductionPercent": 57.33
+    },
+    {
+      "originalFile": "latest16.jpg",
+      "outputFile": "latest16.webp",
+      "originalSize": 276890,
+      "optimizedSize": 125240,
+      "originalDims": "1348x2048",
+      "optimizedDims": "711x1080",
+      "savedBytes": 151650,
+      "reductionPercent": 54.77
+    },
+    {
+      "originalFile": "latest17.jpg",
+      "outputFile": "latest17.webp",
+      "originalSize": 630263,
+      "optimizedSize": 222844,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 407419,
+      "reductionPercent": 64.64
+    },
+    {
+      "originalFile": "latest18.jpg",
+      "outputFile": "latest18.webp",
+      "originalSize": 578894,
+      "optimizedSize": 246154,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 332740,
+      "reductionPercent": 57.48
+    },
+    {
+      "originalFile": "latest19.jpg",
+      "outputFile": "latest19.webp",
+      "originalSize": 288202,
+      "optimizedSize": 132380,
+      "originalDims": "1282x2048",
+      "optimizedDims": "676x1080",
+      "savedBytes": 155822,
+      "reductionPercent": 54.07
+    },
+    {
+      "originalFile": "latest2.jpg",
+      "outputFile": "latest2.webp",
+      "originalSize": 336765,
+      "optimizedSize": 137534,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 199231,
+      "reductionPercent": 59.16
+    },
+    {
+      "originalFile": "latest20.jpg",
+      "outputFile": "latest20.webp",
+      "originalSize": 545887,
+      "optimizedSize": 237100,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 308787,
+      "reductionPercent": 56.57
+    },
+    {
+      "originalFile": "latest21.jpg",
+      "outputFile": "latest21.webp",
+      "originalSize": 269049,
+      "optimizedSize": 102678,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 166371,
+      "reductionPercent": 61.84
+    },
+    {
+      "originalFile": "latest22.jpg",
+      "outputFile": "latest22.webp",
+      "originalSize": 53615,
+      "optimizedSize": 50102,
+      "originalDims": "640x960",
+      "optimizedDims": "640x960",
+      "savedBytes": 3513,
+      "reductionPercent": 6.55
+    },
+    {
+      "originalFile": "latest23.jpg",
+      "outputFile": "latest23.webp",
+      "originalSize": 67759,
+      "optimizedSize": 63768,
+      "originalDims": "640x960",
+      "optimizedDims": "640x960",
+      "savedBytes": 3991,
+      "reductionPercent": 5.89
+    },
+    {
+      "originalFile": "latest24.jpg",
+      "outputFile": "latest24.webp",
+      "originalSize": 508667,
+      "optimizedSize": 220208,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 288459,
+      "reductionPercent": 56.71
+    },
+    {
+      "originalFile": "latest25.jpg",
+      "outputFile": "latest25.webp",
+      "originalSize": 363520,
+      "optimizedSize": 185188,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 178332,
+      "reductionPercent": 49.06
+    },
+    {
+      "originalFile": "latest26.jpg",
+      "outputFile": "latest26.webp",
+      "originalSize": 452444,
+      "optimizedSize": 246040,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 206404,
+      "reductionPercent": 45.62
+    },
+    {
+      "originalFile": "latest27.jpg",
+      "outputFile": "latest27.webp",
+      "originalSize": 263743,
+      "optimizedSize": 108994,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 154749,
+      "reductionPercent": 58.67
+    },
+    {
+      "originalFile": "latest28.jpg",
+      "outputFile": "latest28.webp",
+      "originalSize": 139354,
+      "optimizedSize": 185546,
+      "originalDims": "720x960",
+      "optimizedDims": "720x960",
+      "savedBytes": -46192,
+      "reductionPercent": -33.15
+    },
+    {
+      "originalFile": "latest29.jpg",
+      "outputFile": "latest29.webp",
+      "originalSize": 358146,
+      "optimizedSize": 148822,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 209324,
+      "reductionPercent": 58.45
+    },
+    {
+      "originalFile": "latest3.jpg",
+      "outputFile": "latest3.webp",
+      "originalSize": 491202,
+      "optimizedSize": 195892,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 295310,
+      "reductionPercent": 60.12
+    },
+    {
+      "originalFile": "latest4.jpg",
+      "outputFile": "latest4.webp",
+      "originalSize": 521590,
+      "optimizedSize": 219078,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 302512,
+      "reductionPercent": 58
+    },
+    {
+      "originalFile": "latest5.jpg",
+      "outputFile": "latest5.webp",
+      "originalSize": 568901,
+      "optimizedSize": 239998,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 328903,
+      "reductionPercent": 57.81
+    },
+    {
+      "originalFile": "latest6.jpg",
+      "outputFile": "latest6.webp",
+      "originalSize": 477263,
+      "optimizedSize": 211940,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 265323,
+      "reductionPercent": 55.59
+    },
+    {
+      "originalFile": "latest7.jpg",
+      "outputFile": "latest7.webp",
+      "originalSize": 92240,
+      "optimizedSize": 105202,
+      "originalDims": "720x960",
+      "optimizedDims": "720x960",
+      "savedBytes": -12962,
+      "reductionPercent": -14.05
+    },
+    {
+      "originalFile": "latest8.jpg",
+      "outputFile": "latest8.webp",
+      "originalSize": 376126,
+      "optimizedSize": 224756,
+      "originalDims": "1290x1706",
+      "optimizedDims": "817x1080",
+      "savedBytes": 151370,
+      "reductionPercent": 40.24
+    },
+    {
+      "originalFile": "latest9.jpg",
+      "outputFile": "latest9.webp",
+      "originalSize": 548926,
+      "optimizedSize": 228196,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 320730,
+      "reductionPercent": 58.43
+    },
+    {
+      "originalFile": "mehandi1.jpg",
+      "outputFile": "mehandi1.webp",
+      "originalSize": 69083,
+      "optimizedSize": 73448,
+      "originalDims": "540x960",
+      "optimizedDims": "540x960",
+      "savedBytes": -4365,
+      "reductionPercent": -6.32
+    },
+    {
+      "originalFile": "nails.jpg",
+      "outputFile": "nails.webp",
+      "originalSize": 34494,
+      "optimizedSize": 21610,
+      "originalDims": "474x711",
+      "optimizedDims": "474x711",
+      "savedBytes": 12884,
+      "reductionPercent": 37.35
+    },
+    {
+      "originalFile": "new1.jpg",
+      "outputFile": "new1.webp",
+      "originalSize": 239679,
+      "optimizedSize": 97252,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 142427,
+      "reductionPercent": 59.42
+    },
+    {
+      "originalFile": "new2.jpg",
+      "outputFile": "new2.webp",
+      "originalSize": 228394,
+      "optimizedSize": 91844,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 136550,
+      "reductionPercent": 59.79
+    },
+    {
+      "originalFile": "new3.jpg",
+      "outputFile": "new3.webp",
+      "originalSize": 285569,
+      "optimizedSize": 122022,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 163547,
+      "reductionPercent": 57.27
+    },
+    {
+      "originalFile": "new4.jpg",
+      "outputFile": "new4.webp",
+      "originalSize": 545338,
+      "optimizedSize": 250332,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 295006,
+      "reductionPercent": 54.1
+    },
+    {
+      "originalFile": "new5.jpg",
+      "outputFile": "new5.webp",
+      "originalSize": 251907,
+      "optimizedSize": 105022,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 146885,
+      "reductionPercent": 58.31
+    },
+    {
+      "originalFile": "new6.jpg",
+      "outputFile": "new6.webp",
+      "originalSize": 274384,
+      "optimizedSize": 122076,
+      "originalDims": "1440x1799",
+      "optimizedDims": "864x1080",
+      "savedBytes": 152308,
+      "reductionPercent": 55.51
+    },
+    {
+      "originalFile": "new7.jpg",
+      "outputFile": "new7.webp",
+      "originalSize": 316410,
+      "optimizedSize": 138188,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 178222,
+      "reductionPercent": 56.33
+    },
+    {
+      "originalFile": "new8.jpg",
+      "outputFile": "new8.webp",
+      "originalSize": 236404,
+      "optimizedSize": 125470,
+      "originalDims": "1440x1796",
+      "optimizedDims": "866x1080",
+      "savedBytes": 110934,
+      "reductionPercent": 46.93
+    },
+    {
+      "originalFile": "nobg_sailogo.png",
+      "outputFile": "nobg_sailogo.png",
+      "originalSize": 122977,
+      "optimizedSize": 31304,
+      "originalDims": "400x400",
+      "optimizedDims": "400x400",
+      "savedBytes": 91673,
+      "reductionPercent": 74.54
+    },
+    {
+      "originalFile": "nobg_sailogo.png",
+      "outputFile": "nobg_sailogo.webp",
+      "originalSize": 122977,
+      "optimizedSize": 23002,
+      "originalDims": "400x400",
+      "optimizedDims": "400x400",
+      "savedBytes": 99975,
+      "reductionPercent": 81.3
+    },
+    {
+      "originalFile": "parlour_frontimg.jpeg",
+      "outputFile": "parlour_frontimg.webp",
+      "originalSize": 1110199,
+      "optimizedSize": 275462,
+      "originalDims": "4160x2340",
+      "optimizedDims": "1920x1080",
+      "savedBytes": 834737,
+      "reductionPercent": 75.19
+    },
+    {
+      "originalFile": "party.jpg",
+      "outputFile": "party.webp",
+      "originalSize": 37074,
+      "optimizedSize": 31002,
+      "originalDims": "640x960",
+      "optimizedDims": "640x960",
+      "savedBytes": 6072,
+      "reductionPercent": 16.38
+    },
+    {
+      "originalFile": "sai1.jpg",
+      "outputFile": "sai1.webp",
+      "originalSize": 373302,
+      "optimizedSize": 157782,
+      "originalDims": "1334x2048",
+      "optimizedDims": "703x1080",
+      "savedBytes": 215520,
+      "reductionPercent": 57.73
+    },
+    {
+      "originalFile": "sai3.jpg",
+      "outputFile": "sai3.webp",
+      "originalSize": 462160,
+      "optimizedSize": 77948,
+      "originalDims": "1287x2048",
+      "optimizedDims": "679x1080",
+      "savedBytes": 384212,
+      "reductionPercent": 83.13
+    },
+    {
+      "originalFile": "sai_bg_logo.png",
+      "outputFile": "sai_bg_logo.png",
+      "originalSize": 115173,
+      "optimizedSize": 37342,
+      "originalDims": "412x412",
+      "optimizedDims": "412x412",
+      "savedBytes": 77831,
+      "reductionPercent": 67.58
+    },
+    {
+      "originalFile": "sai_bg_logo.png",
+      "outputFile": "sai_bg_logo.webp",
+      "originalSize": 115173,
+      "optimizedSize": 12652,
+      "originalDims": "412x412",
+      "optimizedDims": "412x412",
+      "savedBytes": 102521,
+      "reductionPercent": 89.01
+    },
+    {
+      "originalFile": "sai_final_logo.png",
+      "outputFile": "sai_final_logo.png",
+      "originalSize": 196197,
+      "optimizedSize": 57757,
+      "originalDims": "412x412",
+      "optimizedDims": "412x412",
+      "savedBytes": 138440,
+      "reductionPercent": 70.56
+    },
+    {
+      "originalFile": "sai_final_logo.png",
+      "outputFile": "sai_final_logo.webp",
+      "originalSize": 196197,
+      "optimizedSize": 15450,
+      "originalDims": "412x412",
+      "optimizedDims": "412x412",
+      "savedBytes": 180747,
+      "reductionPercent": 92.13
+    },
+    {
+      "originalFile": "sai_gray_bg.png",
+      "outputFile": "sai_gray_bg.png",
+      "originalSize": 123532,
+      "optimizedSize": 39613,
+      "originalDims": "412x412",
+      "optimizedDims": "412x412",
+      "savedBytes": 83919,
+      "reductionPercent": 67.93
+    },
+    {
+      "originalFile": "sai_gray_bg.png",
+      "outputFile": "sai_gray_bg.webp",
+      "originalSize": 123532,
+      "optimizedSize": 12446,
+      "originalDims": "412x412",
+      "optimizedDims": "412x412",
+      "savedBytes": 111086,
+      "reductionPercent": 89.92
+    },
+    {
+      "originalFile": "sai_interior.jpeg",
+      "outputFile": "sai_interior.webp",
+      "originalSize": 986924,
+      "optimizedSize": 187314,
+      "originalDims": "2268x4032",
+      "optimizedDims": "900x1600",
+      "savedBytes": 799610,
+      "reductionPercent": 81.02
+    },
+    {
+      "originalFile": "sai_interior2.jpeg",
+      "outputFile": "sai_interior2.webp",
+      "originalSize": 865253,
+      "optimizedSize": 165202,
+      "originalDims": "2268x4032",
+      "optimizedDims": "900x1600",
+      "savedBytes": 700051,
+      "reductionPercent": 80.91
+    },
+    {
+      "originalFile": "sai_logo-removebg-preview.png",
+      "outputFile": "sai_logo-removebg-preview.png",
+      "originalSize": 115986,
+      "optimizedSize": 31595,
+      "originalDims": "400x400",
+      "optimizedDims": "400x400",
+      "savedBytes": 84391,
+      "reductionPercent": 72.76
+    },
+    {
+      "originalFile": "sai_logo-removebg-preview.png",
+      "outputFile": "sai_logo-removebg-preview.webp",
+      "originalSize": 115986,
+      "optimizedSize": 10592,
+      "originalDims": "400x400",
+      "optimizedDims": "400x400",
+      "savedBytes": 105394,
+      "reductionPercent": 90.87
+    },
+    {
+      "originalFile": "sanu1.jpg",
+      "outputFile": "sanu1.webp",
+      "originalSize": 580115,
+      "optimizedSize": 83142,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 496973,
+      "reductionPercent": 85.67
+    },
+    {
+      "originalFile": "skincare.png",
+      "outputFile": "skincare.webp",
+      "originalSize": 1654484,
+      "optimizedSize": 20378,
+      "originalDims": "1152x2048",
+      "optimizedDims": "608x1080",
+      "savedBytes": 1634106,
+      "reductionPercent": 98.77
+    },
+    {
+      "originalFile": "team1.jpg",
+      "outputFile": "team1.webp",
+      "originalSize": 602278,
+      "optimizedSize": 258228,
+      "originalDims": "2048x1536",
+      "optimizedDims": "1080x810",
+      "savedBytes": 344050,
+      "reductionPercent": 57.12
+    },
+    {
+      "originalFile": "team10.jpg",
+      "outputFile": "team10.webp",
+      "originalSize": 161635,
+      "optimizedSize": 52686,
+      "originalDims": "1600x1200",
+      "optimizedDims": "1080x810",
+      "savedBytes": 108949,
+      "reductionPercent": 67.4
+    },
+    {
+      "originalFile": "team11.jpg",
+      "outputFile": "team11.webp",
+      "originalSize": 256576,
+      "optimizedSize": 109870,
+      "originalDims": "1600x1200",
+      "optimizedDims": "1080x810",
+      "savedBytes": 146706,
+      "reductionPercent": 57.18
+    },
+    {
+      "originalFile": "team12.jpg",
+      "outputFile": "team12.webp",
+      "originalSize": 50862,
+      "optimizedSize": 46464,
+      "originalDims": "960x720",
+      "optimizedDims": "960x720",
+      "savedBytes": 4398,
+      "reductionPercent": 8.65
+    },
+    {
+      "originalFile": "team13.jpg",
+      "outputFile": "team13.webp",
+      "originalSize": 66913,
+      "optimizedSize": 63882,
+      "originalDims": "960x720",
+      "optimizedDims": "960x720",
+      "savedBytes": 3031,
+      "reductionPercent": 4.53
+    },
+    {
+      "originalFile": "team14.jpg",
+      "outputFile": "team14.webp",
+      "originalSize": 61579,
+      "optimizedSize": 55318,
+      "originalDims": "768x960",
+      "optimizedDims": "768x960",
+      "savedBytes": 6261,
+      "reductionPercent": 10.17
+    },
+    {
+      "originalFile": "team15.jpg",
+      "outputFile": "team15.webp",
+      "originalSize": 266590,
+      "optimizedSize": 101674,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 164916,
+      "reductionPercent": 61.86
+    },
+    {
+      "originalFile": "team16.jpg",
+      "outputFile": "team16.webp",
+      "originalSize": 560433,
+      "optimizedSize": 277980,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 282453,
+      "reductionPercent": 50.4
+    },
+    {
+      "originalFile": "team17.jpg",
+      "outputFile": "team17.webp",
+      "originalSize": 425270,
+      "optimizedSize": 201496,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 223774,
+      "reductionPercent": 52.62
+    },
+    {
+      "originalFile": "team18.jpg",
+      "outputFile": "team18.webp",
+      "originalSize": 897606,
+      "optimizedSize": 149490,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 748116,
+      "reductionPercent": 83.35
+    },
+    {
+      "originalFile": "team19.jpg",
+      "outputFile": "team19.webp",
+      "originalSize": 420013,
+      "optimizedSize": 172782,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 247231,
+      "reductionPercent": 58.86
+    },
+    {
+      "originalFile": "team2.jpg",
+      "outputFile": "team2.webp",
+      "originalSize": 300136,
+      "optimizedSize": 126434,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 173702,
+      "reductionPercent": 57.87
+    },
+    {
+      "originalFile": "team20.jpg",
+      "outputFile": "team20.webp",
+      "originalSize": 373665,
+      "optimizedSize": 143594,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 230071,
+      "reductionPercent": 61.57
+    },
+    {
+      "originalFile": "team21.jpg",
+      "outputFile": "team21.webp",
+      "originalSize": 326400,
+      "optimizedSize": 130112,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 196288,
+      "reductionPercent": 60.14
+    },
+    {
+      "originalFile": "team22.jpg",
+      "outputFile": "team22.webp",
+      "originalSize": 350711,
+      "optimizedSize": 141378,
+      "originalDims": "2048x1536",
+      "optimizedDims": "1080x810",
+      "savedBytes": 209333,
+      "reductionPercent": 59.69
+    },
+    {
+      "originalFile": "team23.jpg",
+      "outputFile": "team23.webp",
+      "originalSize": 597502,
+      "optimizedSize": 250564,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 346938,
+      "reductionPercent": 58.06
+    },
+    {
+      "originalFile": "team24.jpg",
+      "outputFile": "team24.webp",
+      "originalSize": 331932,
+      "optimizedSize": 136114,
+      "originalDims": "2016x1512",
+      "optimizedDims": "1080x810",
+      "savedBytes": 195818,
+      "reductionPercent": 58.99
+    },
+    {
+      "originalFile": "team25.jpg",
+      "outputFile": "team25.webp",
+      "originalSize": 312073,
+      "optimizedSize": 117304,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 194769,
+      "reductionPercent": 62.41
+    },
+    {
+      "originalFile": "team26.jpg",
+      "outputFile": "team26.webp",
+      "originalSize": 503621,
+      "optimizedSize": 206434,
+      "originalDims": "2048x1536",
+      "optimizedDims": "1080x810",
+      "savedBytes": 297187,
+      "reductionPercent": 59.01
+    },
+    {
+      "originalFile": "team27.jpg",
+      "outputFile": "team27.webp",
+      "originalSize": 399079,
+      "optimizedSize": 156444,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 242635,
+      "reductionPercent": 60.8
+    },
+    {
+      "originalFile": "team28.jpg",
+      "outputFile": "team28.webp",
+      "originalSize": 596056,
+      "optimizedSize": 272528,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 323528,
+      "reductionPercent": 54.28
+    },
+    {
+      "originalFile": "team29.jpg",
+      "outputFile": "team29.webp",
+      "originalSize": 567284,
+      "optimizedSize": 182698,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 384586,
+      "reductionPercent": 67.79
+    },
+    {
+      "originalFile": "team3.jpg",
+      "outputFile": "team3.webp",
+      "originalSize": 341160,
+      "optimizedSize": 143218,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 197942,
+      "reductionPercent": 58.02
+    },
+    {
+      "originalFile": "team30.jpg",
+      "outputFile": "team30.webp",
+      "originalSize": 382958,
+      "optimizedSize": 109226,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 273732,
+      "reductionPercent": 71.48
+    },
+    {
+      "originalFile": "team31.jpg",
+      "outputFile": "team31.webp",
+      "originalSize": 812737,
+      "optimizedSize": 280428,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 532309,
+      "reductionPercent": 65.5
+    },
+    {
+      "originalFile": "team32.jpg",
+      "outputFile": "team32.webp",
+      "originalSize": 433845,
+      "optimizedSize": 146226,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 287619,
+      "reductionPercent": 66.3
+    },
+    {
+      "originalFile": "team33.jpg",
+      "outputFile": "team33.webp",
+      "originalSize": 114770,
+      "optimizedSize": 121142,
+      "originalDims": "720x960",
+      "optimizedDims": "720x960",
+      "savedBytes": -6372,
+      "reductionPercent": -5.55
+    },
+    {
+      "originalFile": "team34.jpg",
+      "outputFile": "team34.webp",
+      "originalSize": 250482,
+      "optimizedSize": 116596,
+      "originalDims": "1320x1758",
+      "optimizedDims": "811x1080",
+      "savedBytes": 133886,
+      "reductionPercent": 53.45
+    },
+    {
+      "originalFile": "team35.jpg",
+      "outputFile": "team35.webp",
+      "originalSize": 271222,
+      "optimizedSize": 126844,
+      "originalDims": "1320x1758",
+      "optimizedDims": "811x1080",
+      "savedBytes": 144378,
+      "reductionPercent": 53.23
+    },
+    {
+      "originalFile": "team36.jpg",
+      "outputFile": "team36.webp",
+      "originalSize": 246528,
+      "optimizedSize": 112688,
+      "originalDims": "1320x1758",
+      "optimizedDims": "811x1080",
+      "savedBytes": 133840,
+      "reductionPercent": 54.29
+    },
+    {
+      "originalFile": "team37.jpg",
+      "outputFile": "team37.webp",
+      "originalSize": 416992,
+      "optimizedSize": 136770,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 280222,
+      "reductionPercent": 67.2
+    },
+    {
+      "originalFile": "team38.jpg",
+      "outputFile": "team38.webp",
+      "originalSize": 372468,
+      "optimizedSize": 140286,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 232182,
+      "reductionPercent": 62.34
+    },
+    {
+      "originalFile": "team39.jpg",
+      "outputFile": "team39.webp",
+      "originalSize": 367850,
+      "optimizedSize": 146122,
+      "originalDims": "1440x1920",
+      "optimizedDims": "810x1080",
+      "savedBytes": 221728,
+      "reductionPercent": 60.28
+    },
+    {
+      "originalFile": "team40.jpg",
+      "outputFile": "team40.webp",
+      "originalSize": 423987,
+      "optimizedSize": 120254,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 303733,
+      "reductionPercent": 71.64
+    },
+    {
+      "originalFile": "team41.jpg",
+      "outputFile": "team41.webp",
+      "originalSize": 310704,
+      "optimizedSize": 100122,
+      "originalDims": "1152x2048",
+      "optimizedDims": "608x1080",
+      "savedBytes": 210582,
+      "reductionPercent": 67.78
+    },
+    {
+      "originalFile": "team5.jpg",
+      "outputFile": "team5.webp",
+      "originalSize": 317561,
+      "optimizedSize": 125640,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 191921,
+      "reductionPercent": 60.44
+    },
+    {
+      "originalFile": "team6.jpg",
+      "outputFile": "team6.webp",
+      "originalSize": 394315,
+      "optimizedSize": 148992,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 245323,
+      "reductionPercent": 62.21
+    },
+    {
+      "originalFile": "team7.jpg",
+      "outputFile": "team7.webp",
+      "originalSize": 404112,
+      "optimizedSize": 120078,
+      "originalDims": "2048x1536",
+      "optimizedDims": "1080x810",
+      "savedBytes": 284034,
+      "reductionPercent": 70.29
+    },
+    {
+      "originalFile": "team8.jpg",
+      "outputFile": "team8.webp",
+      "originalSize": 261776,
+      "optimizedSize": 60944,
+      "originalDims": "1538x2048",
+      "optimizedDims": "811x1080",
+      "savedBytes": 200832,
+      "reductionPercent": 76.72
+    },
+    {
+      "originalFile": "team9.jpg",
+      "outputFile": "team9.webp",
+      "originalSize": 161488,
+      "optimizedSize": 50300,
+      "originalDims": "1600x1200",
+      "optimizedDims": "1080x810",
+      "savedBytes": 111188,
+      "reductionPercent": 68.85
+    },
+    {
+      "originalFile": "testimonial.png",
+      "outputFile": "testimonial.webp",
+      "originalSize": 1846244,
+      "optimizedSize": 103864,
+      "originalDims": "1080x1920",
+      "optimizedDims": "800x1422",
+      "savedBytes": 1742380,
+      "reductionPercent": 94.37
+    },
+    {
+      "originalFile": "training1.jpg",
+      "outputFile": "training1.webp",
+      "originalSize": 378985,
+      "optimizedSize": 149468,
+      "originalDims": "2048x1536",
+      "optimizedDims": "1080x810",
+      "savedBytes": 229517,
+      "reductionPercent": 60.56
+    },
+    {
+      "originalFile": "training2.jpg",
+      "outputFile": "training2.webp",
+      "originalSize": 270282,
+      "optimizedSize": 92984,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 177298,
+      "reductionPercent": 65.6
+    },
+    {
+      "originalFile": "training3.jpg",
+      "outputFile": "training3.webp",
+      "originalSize": 269455,
+      "optimizedSize": 97554,
+      "originalDims": "2048x1536",
+      "optimizedDims": "1080x810",
+      "savedBytes": 171901,
+      "reductionPercent": 63.8
+    },
+    {
+      "originalFile": "training4.jpg",
+      "outputFile": "training4.webp",
+      "originalSize": 249497,
+      "optimizedSize": 89584,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 159913,
+      "reductionPercent": 64.09
+    },
+    {
+      "originalFile": "training5.jpg",
+      "outputFile": "training5.webp",
+      "originalSize": 270113,
+      "optimizedSize": 100194,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 169919,
+      "reductionPercent": 62.91
+    },
+    {
+      "originalFile": "training6.jpg",
+      "outputFile": "training6.webp",
+      "originalSize": 228720,
+      "optimizedSize": 143792,
+      "originalDims": "1200x1600",
+      "optimizedDims": "810x1080",
+      "savedBytes": 84928,
+      "reductionPercent": 37.13
+    },
+    {
+      "originalFile": "training7.jpg",
+      "outputFile": "training7.webp",
+      "originalSize": 278203,
+      "optimizedSize": 103366,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 174837,
+      "reductionPercent": 62.85
+    },
+    {
+      "originalFile": "training8.jpg",
+      "outputFile": "training8.webp",
+      "originalSize": 279017,
+      "optimizedSize": 105120,
+      "originalDims": "1536x2048",
+      "optimizedDims": "810x1080",
+      "savedBytes": 173897,
+      "reductionPercent": 62.32
+    },
+    {
+      "originalFile": "training9.jpg",
+      "outputFile": "training9.webp",
+      "originalSize": 291644,
+      "optimizedSize": 121446,
+      "originalDims": "1440x1800",
+      "optimizedDims": "864x1080",
+      "savedBytes": 170198,
+      "reductionPercent": 58.36
+    },
+    {
+      "originalFile": "favicon.png",
+      "outputFile": "public_favicon.png",
+      "originalSize": 122977,
+      "optimizedSize": 6709,
+      "originalDims": "400x400",
+      "optimizedDims": "128x128",
+      "savedBytes": 116268,
+      "reductionPercent": 94.54
+    },
+    {
+      "originalFile": "og-image.png",
+      "outputFile": "public_og-image.png",
+      "originalSize": 122977,
+      "optimizedSize": 31304,
+      "originalDims": "400x400",
+      "optimizedDims": "400x400",
+      "savedBytes": 91673,
+      "reductionPercent": 74.54
+    }
+  ]
+}

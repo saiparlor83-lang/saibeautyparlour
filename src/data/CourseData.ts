@@ -1,3 +1,5 @@
+import { imageUrl } from '../assets';
+
 export interface Course {
   id: string;
   slug: string;
@@ -7,8 +9,8 @@ export interface Course {
   courseType: string;
   programLevel: string;
   locations: string[];
+  location?: string;
   duration: string;
-  level: string;
   image: string;
   description: string;
   requirements: string[];
@@ -37,10 +39,9 @@ export const courseData: Record<string, Course> = {
     category: "Comprehensive Programs",
     courseType: "Comprehensive",
     programLevel: "Basic",
-    locations: ["In-Person Academy", "Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Month",
-    level: "Beginner",
-    image: "/images/parlour_frontimg.jpeg",
+    image: imageUrl('parlour_frontimg.jpeg'),
     description:
       "Build a solid foundation in essential salon beauty care and daily makeup techniques. Covers skin prep, facial basics, manicure, pedicure, waxing, threading, and color matching for aspiring artists and personal grooming.",
     requirements: [
@@ -93,10 +94,9 @@ export const courseData: Record<string, Course> = {
     category: "Comprehensive Programs",
     courseType: "Comprehensive",
     programLevel: "Advanced",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "2 Months",
-    level: "Advanced",
-    image: "/images/sai3.jpg",
+    image: imageUrl('sai3.jpg'),
     description:
       "Elevate your artistry to professional standards. Focus on high-definition bridal looks, advanced contouring, precision eye artistry, complex hairstyling, and specialized facial techniques for professional salon artists.",
     requirements: [
@@ -142,10 +142,9 @@ export const courseData: Record<string, Course> = {
     category: "Comprehensive Programs",
     courseType: "Comprehensive",
     programLevel: "Diploma",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "3 Months",
-    level: "Professional",
-    image: "/images/sai1.jpg",
+    image: imageUrl('sai1.jpg'),
     description:
       "Our flagship, all-inclusive diploma program designed to transform you into a fully certified beauty therapist and salon entrepreneur. Covers skin care, advanced makeup, hairstyling, hair color basics, nail art, and salon management.",
     requirements: [
@@ -192,10 +191,9 @@ export const courseData: Record<string, Course> = {
     category: "Makeup",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "3 Weeks",
-    level: "Intermediate",
-    image: "/images/course1.jpg",
+    image: imageUrl('course1.jpg'),
     description:
       "Master commercial, event, and glam makeup techniques. Learn color correction, face shaping, baking, and longevity secrets for commercial client makeup.",
     requirements: ["Basic understanding of makeup tools is helpful but not mandatory."],
@@ -222,10 +220,9 @@ export const courseData: Record<string, Course> = {
     category: "Makeup",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "2 Weeks",
-    level: "Advanced",
-    image: "/images/course2.jpg",
+    image: imageUrl('course2.jpg'),
     description:
       "Specialized masterclass focusing on traditional, cultural, and modern bridal glam. Master waterproof base techniques, dupatta setting, and jewelry pairing.",
     requirements: ["Prior basic makeup knowledge required."],
@@ -252,10 +249,9 @@ export const courseData: Record<string, Course> = {
     category: "Makeup",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Week",
-    level: "Beginner",
-    image: "/images/party.jpg",
+    image: imageUrl('party.jpg'),
     description:
       "Learn quick, stunning party glam looks for receptions, festivals, and evening events. Perfect for salon assistants and freelance artists.",
     requirements: ["Open to all skill levels."],
@@ -281,10 +277,9 @@ export const courseData: Record<string, Course> = {
     category: "Makeup",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Week",
-    level: "Intermediate",
-    image: "/images/latest1.jpg",
+    image: imageUrl('latest1.jpg'),
     description:
       "Specialized module focused exclusively on intricate eye techniques: cut crease, halo eyes, glitter placement, graphic liner, and winged precision.",
     requirements: ["Basic brush handling skills."],
@@ -310,10 +305,9 @@ export const courseData: Record<string, Course> = {
     category: "Makeup",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "10 Days",
-    level: "Advanced",
-    image: "/images/latest2.jpg",
+    image: imageUrl('latest2.jpg'),
     description:
       "Learn camera-ready High Definition makeup techniques and airbrush gun handling for flawless photo shoots and high-profile events.",
     requirements: ["Advanced makeup experience recommended."],
@@ -339,10 +333,9 @@ export const courseData: Record<string, Course> = {
     category: "Makeup",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "3 Days",
-    level: "Beginner",
-    image: "/images/latest3.jpg",
+    image: imageUrl('latest3.jpg'),
     description:
       "Discover your skin tone, perfect your daily corporate look, and master an effortless 15-minute evening makeup routine using your own vanity pouch.",
     requirements: ["No experience needed; bring your personal makeup bag."],
@@ -371,10 +364,9 @@ export const courseData: Record<string, Course> = {
     category: "Hair",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Month",
-    level: "Intermediate",
-    image: "/images/hair.jpg",
+    image: imageUrl('hair.jpg'),
     description:
       "Master thermal styling, iron curling, blow-drying techniques, volume boosting, and modern messy buns for client styling.",
     requirements: ["Beginner friendly."],
@@ -401,10 +393,9 @@ export const courseData: Record<string, Course> = {
     category: "Hair",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "2 Weeks",
-    level: "Advanced",
-    image: "/images/latest4.jpg",
+    image: imageUrl('latest4.jpg'),
     description:
       "Specialized training in intricate bridal hairstyles, hair stuffing, extensions attachment, floral padding, and traditional bridal buns.",
     requirements: ["Basic styling knowledge."],
@@ -430,10 +421,9 @@ export const courseData: Record<string, Course> = {
     category: "Hair",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Month",
-    level: "Intermediate",
-    image: "/images/latest5.jpg",
+    image: imageUrl('latest5.jpg'),
     description:
       "Learn fundamental to popular salon haircuts: straight cut, U-cut, V-cut, layers, feathering, bob cuts, and bangs.",
     requirements: ["Open to beginners."],
@@ -459,10 +449,9 @@ export const courseData: Record<string, Course> = {
     category: "Hair",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "3 Weeks",
-    level: "Advanced",
-    image: "/images/latest6.jpg",
+    image: imageUrl('latest6.jpg'),
     description:
       "Master color theory, developer ratios, global coloring, balayage, ombre, foil highlights, and root touch-up applications.",
     requirements: ["Basic salon knowledge."],
@@ -488,10 +477,9 @@ export const courseData: Record<string, Course> = {
     category: "Hair",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Week",
-    level: "Beginner",
-    image: "/images/latest7.jpg",
+    image: imageUrl('latest7.jpg'),
     description:
       "Comprehensive training in hair spa rituals, deep conditioning, scalp analysis, anti-dandruff care, and head massage relaxation.",
     requirements: ["No experience needed."],
@@ -517,10 +505,9 @@ export const courseData: Record<string, Course> = {
     category: "Hair",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "2 Weeks",
-    level: "Intermediate",
-    image: "/images/latest8.jpg",
+    image: imageUrl('latest8.jpg'),
     description:
       "Master chemical straightening, rebonding, keratin smoothing, and post-treatment maintenance for silky client hair.",
     requirements: ["Basic salon experience."],
@@ -549,10 +536,9 @@ export const courseData: Record<string, Course> = {
     category: "Skin Care",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "3 Weeks",
-    level: "Beginner",
-    image: "/images/skincare.png",
+    image: imageUrl('skincare.png'),
     description:
       "Learn skin analysis, facial massage steps, blackhead extraction, mask application, and customized facial treatments for dry, oily, and sensitive skin.",
     requirements: ["Open to all."],
@@ -578,10 +564,9 @@ export const courseData: Record<string, Course> = {
     category: "Skin Care",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "2 Weeks",
-    level: "Advanced",
-    image: "/images/latest9.jpg",
+    image: imageUrl('latest9.jpg'),
     description:
       "Explore specialized skin care: anti-aging facials, gold facials, fruit peels, tan removal therapy, and skin tightening protocols.",
     requirements: ["Basic skincare knowledge."],
@@ -607,10 +592,9 @@ export const courseData: Record<string, Course> = {
     category: "Skin Care",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Week",
-    level: "Intermediate",
-    image: "/images/latest10.jpg",
+    image: imageUrl('latest10.jpg'),
     description:
       "Master pressure point head/neck massage, lymph drainage facial techniques, and relaxing spa facial procedures.",
     requirements: ["Basic facial knowledge."],
@@ -636,10 +620,9 @@ export const courseData: Record<string, Course> = {
     category: "Skin Care",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "3 Days",
-    level: "Beginner",
-    image: "/images/latest11.jpg",
+    image: imageUrl('latest11.jpg'),
     description:
       "Quick intensive course on quick facial cleanups, scrub exfoliation, pack application, and daily skin health maintenance.",
     requirements: ["No experience needed."],
@@ -668,10 +651,9 @@ export const courseData: Record<string, Course> = {
     category: "Nails",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Week",
-    level: "Beginner",
-    image: "/images/nails.jpg",
+    image: imageUrl('nails.jpg'),
     description:
       "Master hygienic nail shaping, cuticle care, scrub exfoliation, foot massage, callus smoothing, and polish application.",
     requirements: ["No experience needed."],
@@ -697,10 +679,9 @@ export const courseData: Record<string, Course> = {
     category: "Nails",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "2 Weeks",
-    level: "Intermediate",
-    image: "/images/latest12.jpg",
+    image: imageUrl('latest12.jpg'),
     description:
       "Learn gel polish application, acrylic nail extension tips, glitter placement, French tips, marble designs, and rhinestones.",
     requirements: ["Basic nail care interest."],
@@ -726,10 +707,9 @@ export const courseData: Record<string, Course> = {
     category: "Nails",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "10 Days",
-    level: "Advanced",
-    image: "/images/latest13.jpg",
+    image: imageUrl('latest13.jpg'),
     description:
       "Advanced builder gel nail sculpting, 3D nail art designs, chrome finish, cat-eye effects, and nail extension refills.",
     requirements: ["Basic nail art experience."],
@@ -758,10 +738,9 @@ export const courseData: Record<string, Course> = {
     category: "Salon Skills",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Week",
-    level: "Beginner",
-    image: "/images/latest14.jpg",
+    image: imageUrl('latest14.jpg'),
     description:
       "Master eyebrow threading geometry, upper lip threading, full body strip waxing, and sensitive skin cartridge waxing.",
     requirements: ["No experience required."],
@@ -787,10 +766,9 @@ export const courseData: Record<string, Course> = {
     category: "Salon Skills",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["In-Person Academy"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Month",
-    level: "Intermediate",
-    image: "/images/latest15.jpg",
+    image: imageUrl('latest15.jpg'),
     description:
       "A complete package of daily salon services: threading, body waxing, cleanup, manicures, basic hair styling, and client care.",
     requirements: ["Beginner friendly."],
@@ -816,10 +794,9 @@ export const courseData: Record<string, Course> = {
     category: "Salon Skills",
     courseType: "Individual",
     programLevel: "Specialized",
-    locations: ["Main Studio"],
+    locations: ["Sai Beauty Parlour, Simara"],
     duration: "1 Week",
-    level: "Professional",
-    image: "/images/sai_interior.jpeg",
+    image: imageUrl('sai_interior.jpeg'),
     description:
       "Learn salon setup basics, appointment scheduling, inventory management, staff ethics, client retention, and salon marketing.",
     requirements: ["Suitable for salon owners, managers, and senior beauticians."],
