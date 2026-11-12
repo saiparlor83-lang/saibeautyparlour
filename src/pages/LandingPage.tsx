@@ -89,26 +89,7 @@ const StatsCounter = () => {
     );
 };
 
-const TEAM_MEMBERS = [
-    {
-        name: "Sanu Lama",
-        role: "Founder & stylist",
-        image: imageUrl('sanu1.jpg'),
-        bio: "Sanu Lama built this salon on the belief that beauty work is honest work.",
-    },
-    {
-        name: "Deepa Sharma",
-        role: "Senior colorist",
-        image: imageUrl('sai3.jpg'),
-        bio: "With over six years of experience, Deepa transforms hair with precision and care.",
-    },
-    {
-        name: "Nisha Adhikari",
-        role: "Skincare specialist",
-        image: imageUrl('sai3.jpg'),
-        bio: "Nisha's approach to skincare is thoughtful, treating each client as an individual.",
-    }
-];
+
 
 const LandingPage = () => {
 
@@ -580,50 +561,7 @@ const LandingPage = () => {
                     </div>
                 </div>
             </section>
-            {/* Our People Section */}
-            <section className="w-full bg-white text-black py-24 border-t border-gray-200">
-                <div className="content-container">
-                    {/* Header */}
-                    <div className="mb-16">
-                        <p className="text-xs font-bold text-gray-900 mb-2">Team</p>
-                        <div className="inline-block pr-16 mb-4">
-                            <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-gray-900 leading-none pb-1">Our people</h2>
-                        </div>
-                        <p className="text-sm text-gray-600">Meet the artists who make Aarfa Beauty Home what it is.</p>
-                    </div>
-
-                    {/* Team Grid */}
-                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-12 gap-y-16 mb-20">
-                        {TEAM_MEMBERS.map((member) => (
-                            <div key={member.name}>
-                                <div className="w-20 h-20 rounded-full bg-gray-200 overflow-hidden mb-4">
-                                    <img
-                                        src={member.image}
-                                        alt={member.name}
-                                        className="w-full h-full object-cover"
-                                        width="80"
-                                        height="80"
-                                        loading="lazy"
-                                        decoding="async"
-                                    />
-                                </div>
-                                <h4 className="font-bold text-gray-900 text-xl mb-0.5">{member.name}</h4>
-                                <p className="text-base text-gray-600 mb-4">{member.role}</p>
-                                <p className="text-sm text-gray-500 leading-relaxed mb-4">
-                                    {member.bio}
-                                </p>
-                                <div className="flex gap-3 text-gray-800">
-                                    <FaFacebook className="w-4 h-4 cursor-pointer hover:text-blue-600 transition-colors" />
-                                    <FaInstagram className="w-4 h-4 cursor-pointer hover:text-pink-500 transition-colors" />
-                                    <FaTiktok className="w-4 h-4 cursor-pointer hover:text-black transition-colors" />
-                                </div>
-                            </div>
-                        ))}
-                    </div>
-
-
-                </div>
-            </section>
+            
 
 
             {/* Ready to Book Section */}
@@ -645,8 +583,8 @@ const LandingPage = () => {
                     {/* Image Placeholder */}
                     <div className="w-full aspect-video bg-zinc-800 rounded-sm overflow-hidden relative group">
                         <div className="absolute inset-0 flex items-center justify-center text-gray-500">
-                            <img src={imageUrl('sai_interior.webp')}
-                                srcSet={`${imageUrl('sai_interior-mobile.webp')} 640w, ${imageUrl('sai_interior.webp')} 1200w`}
+                            <img src={imageUrl('salon_int.jpeg')}
+                               
                                 sizes="100vw"
                                 alt="Sai Beauty Parlour Front View"
                                 className="absolute inset-0 w-full h-full object-cover"

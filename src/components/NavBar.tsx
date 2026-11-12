@@ -280,6 +280,22 @@ const NavBar = ({ forceScrolled = false }) => {
                                     </div>
                                 )}
                             </div>
+
+                            <div className="mt-4 flex gap-2 border-t border-gray-200 px-3 pt-4">
+                                <Link
+                                    to="/contact"
+                                    onClick={() => setIsMenuOpen(false)}
+                                    className="flex-1 border border-gray-300 px-4 py-2 text-center text-sm font-medium text-gray-900 transition-colors hover:bg-gray-50"
+                                >
+                                    Book
+                                </Link>
+                                <a
+                                    href="tel:+9779811168383"
+                                    className="flex-1 bg-pink-600 px-4 py-2 text-center text-sm font-medium text-white transition-colors hover:bg-pink-700"
+                                >
+                                    Call
+                                </a>
+                            </div>
                         </div>
                     </div>
                 )}

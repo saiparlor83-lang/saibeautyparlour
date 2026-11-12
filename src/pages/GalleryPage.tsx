@@ -19,7 +19,7 @@ const Gallery = () => {
             id: 'SBP',
             title: 'Our Works',
             coverImg: 'latest1.jpg',
-            images: ['latest1.jpg', 'latest20.jpg', 'latest21.jpg','latest2.jpg','latest3.jpg',  'new7.jpg', 'latest4.jpg','new3.jpg','new6.jpg','latest5.jpg', 'latest28.jpg', 'sai1.jpg','latest8.jpg', 'latest9.jpg', 'latest10.jpg', 'sai3.jpg', 'latest13.jpg', 'latest12.jpg', 'latest14.jpg', 'latest15.jpg', 'latest16.jpg', 'latest17.jpg', 'latest24.jpg','latest25.jpg', 'new4.jpg', 'latest27.jpg' ,'party.jpg','latest22.jpg']
+            images: ['latest1.jpg', 'latest20.jpg', 'latest21.jpg','latest2.jpg','latest3.jpg', 'latest19.jpg', 'latest18.jpg', 'new7.jpg', 'latest4.jpg','new3.jpg','new6.jpg','latest5.jpg', 'latest28.jpg', 'sai1.jpg','latest8.jpg', 'latest9.jpg', 'latest10.jpg', 'sai3.jpg', 'latest13.jpg', 'latest12.jpg', 'latest14.jpg', 'latest15.jpg', 'latest16.jpg', 'latest17.jpg', 'latest24.jpg','latest25.jpg', 'new4.jpg']
         },
         {
             id: 'MOT',

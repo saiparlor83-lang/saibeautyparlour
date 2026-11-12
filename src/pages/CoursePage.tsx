@@ -258,14 +258,14 @@ const CoursePage = () => {
                 onClick={() => {
                   document.getElementById('courses')?.scrollIntoView({ behavior: 'smooth' });
                 }}
-                className="px-6 py-3.5 bg-white text-gray-900 font-semibold text-sm rounded-none border border-gray-900 hover:bg-gray-100 transition-all uppercase tracking-wider flex items-center gap-2 cursor-pointer"
+                className="px-6 py-3.5 bg-white text-gray-900 font-semibold text-sm rounded-lg border border-gray-900 hover:bg-gray-100 transition-all uppercase tracking-wider flex items-center gap-2 cursor-pointer"
               >
                 <FiSearch className="w-4 h-4" />
                 <span>Browse Courses</span>
               </button>
               <button
                 onClick={() => openWhatsApp("Hi, I'm interested in your beauty training programs. Please share details.")}
-                className="px-6 py-3.5 bg-pink-600 text-white font-semibold text-sm rounded-none border border-pink-600 hover:bg-pink-700 transition-all uppercase tracking-wider cursor-pointer"
+                className="px-6 py-3.5 bg-pink-600 text-white font-semibold text-sm rounded-lg border border-pink-600 hover:bg-pink-700 transition-all uppercase tracking-wider cursor-pointer"
               >
                 Contact Us
               </button>
@@ -283,7 +283,7 @@ const CoursePage = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {whyChoose.map((item, idx) => (
-                <div key={idx} className="p-6 bg-gray-50 rounded-none border border-gray-200 hover:border-black transition-all">
+                <div key={idx} className="p-6 bg-gray-50 rounded-sm border border-gray-200 hover:border-black transition-all">
                   <div className="mb-4 text-gray-900">{item.icon}</div>
                   <h3 className="font-bold text-gray-900 mb-2 text-base">{item.title}</h3>
                   <p className="text-xs text-gray-600 font-light leading-relaxed">{item.desc}</p>
@@ -317,7 +317,7 @@ const CoursePage = () => {
                 {/* Mobile Filter Button (<1024px) */}
                 <button
                   onClick={() => setMobileFilterOpen(!mobileFilterOpen)}
-                  className="lg:hidden flex items-center gap-2 px-4 py-2.5 border border-gray-300 text-sm font-medium text-gray-700 hover:bg-gray-50"
+                  className="lg:hidden flex items-center gap-2 px-4 py-2.5 border border-gray-300 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-50"
                 >
                   <FiFilter className="w-4 h-4" />
                   <span>Filters</span>
@@ -482,7 +482,7 @@ const CoursePage = () => {
                     <p className="text-gray-500 text-base">No courses matched your search and filter criteria.</p>
                     <button
                       onClick={resetFilters}
-                      className="mt-4 px-4 py-2 bg-black text-white text-xs uppercase tracking-wider hover:bg-pink-600 transition-colors"
+                      className="mt-4 px-4 py-2 bg-black text-white text-xs uppercase tracking-wider rounded-lg hover:bg-pink-600 transition-colors"
                     >
                       Reset All Filters
                     </button>
@@ -531,7 +531,7 @@ const CoursePage = () => {
                       {visibleCourses.map((course) => (
                         <div
                           key={course.id}
-                          className="relative group bg-black aspect-[3/4] overflow-hidden flex flex-col justify-end p-6 text-white border border-gray-200"
+                          className="relative group bg-black aspect-[3/4] overflow-hidden rounded-sm flex flex-col justify-end p-6 text-white border border-gray-200"
                         >
                           {/* Background Image */}
                           <img
@@ -556,7 +556,7 @@ const CoursePage = () => {
                             {/* CTA Button */}
                             <Link
                               to={`/courses/${course.slug}`}
-                              className="w-full mt-3 py-3 bg-[#2d2d2d] hover:bg-black text-white font-semibold text-xs uppercase tracking-widest transition-all border border-gray-700 hover:border-white flex items-center justify-center gap-2 cursor-pointer"
+                              className="w-full mt-3 py-3 bg-[#2d2d2d] hover:bg-black text-white font-semibold text-xs uppercase tracking-widest rounded-lg transition-all border border-gray-700 hover:border-white flex items-center justify-center gap-2 cursor-pointer"
                             >
                               <span>Learn More</span>
                               <span>&rarr;</span>
@@ -572,14 +572,14 @@ const CoursePage = () => {
                         {visibleCount < filteredCourses.length ? (
                           <button
                             onClick={() => setVisibleCount(filteredCourses.length)}
-                            className="px-8 py-3.5 bg-black text-white text-xs font-bold uppercase tracking-widest border border-black hover:bg-pink-600 hover:border-pink-600 transition-all cursor-pointer shadow-md"
+                            className="px-8 py-3.5 bg-black text-white text-xs font-bold uppercase tracking-widest rounded-lg border border-black hover:bg-pink-600 hover:border-pink-600 transition-all cursor-pointer shadow-md"
                           >
                             Show More Courses ({filteredCourses.length - visibleCount} Remaining)
                           </button>
                         ) : (
                           <button
                             onClick={() => setVisibleCount(9)}
-                            className="px-8 py-3.5 border border-black text-black text-xs font-bold uppercase tracking-widest hover:bg-black hover:text-white transition-all cursor-pointer"
+                            className="px-8 py-3.5 border border-black text-black text-xs font-bold uppercase tracking-widest rounded-lg hover:bg-black hover:text-white transition-all cursor-pointer"
                           >
                             Show Less
                           </button>
@@ -629,7 +629,7 @@ const CoursePage = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               {trainers.map((trainer, idx) => (
-                <div key={idx} className="bg-white border border-gray-200 overflow-hidden">
+                <div key={idx} className="bg-white border border-gray-200 rounded-sm overflow-hidden">
                   <div className="h-64 overflow-hidden bg-gray-200">
                     <img
                       src={trainer.image}

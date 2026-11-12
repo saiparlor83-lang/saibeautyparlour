@@ -8,12 +8,10 @@ const AboutPage = () => {
     // Image imports
     const heroInterior = imageUrl('sai_interior2.jpeg');
     const founder = imageUrl('sanu1.jpg');
-    const galleryMain = imageUrl('sai_interior.jpeg');
-    const galleryTools = imageUrl('sai3.jpg');
+    const galleryMain = imageUrl('course1.webp');
+    const galleryTools = imageUrl('salon_tools.jpg');
     const galleryFacial = imageUrl('sai_interior2.jpeg');
-    const team1 = imageUrl('team1.jpg');
-    const team2 = imageUrl('team2.jpg');
-    const team3 = imageUrl('team3.jpg');
+
 
     return (
         <div className="min-h-screen bg-white antialiased font-sans">
@@ -341,84 +339,7 @@ const AboutPage = () => {
                 </section>
 
 
-                {/* =====================================================
-                    6. MEET OUR TEAM
-                ====================================================== */}
-                <section className="content-container border-b border-gray-200 py-24">
-
-                    <div className="mx-auto mb-16 max-w-2xl text-center">
-
-                        <span className="text-xs font-bold uppercase tracking-wider text-gray-900 mb-2 block">
-                            Expert Team
-                        </span>
-
-                        <h2 className="mt-2 text-3xl md:text-4xl font-serif font-bold text-gray-900">
-                            Meet Our Team
-                        </h2>
-
-                        <p className="mt-2 text-sm text-gray-600">
-                            Passionate professionals committed to nurturing your creative
-                            journey
-                        </p>
-
-                    </div>
-
-                    <div className="grid gap-10 md:grid-cols-3">
-
-                        {[
-                            {
-                                image: team1,
-                                name: "Deepa Sharma",
-                                role: "Senior Hair Colorist",
-                                description:
-                                    "With 8 years of specialized expertise in color theory and advanced techniques.",
-                            },
-                            {
-                                image: team2,
-                                name: "Nisha Adhikari",
-                                role: "Skincare Specialist",
-                                description:
-                                    "Dedicated to holistic skin wellness, combining scientific knowledge with care.",
-                            },
-                            {
-                                image: team3,
-                                name: "Anita Thapa",
-                                role: "Makeup Artist",
-                                description:
-                                    "A creative visionary who teaches makeup as an art form, enhancing natural beauty.",
-                            },
-                        ].map((member) => (
-                            <div key={member.name} className="text-center">
-
-                                <img
-                                    src={member.image}
-                                    alt={member.name}
-                                    className="mb-4 h-80 w-full rounded-sm object-cover shadow-sm"
-                                    width={400}
-                                    height={320}
-                                    loading="lazy"
-                                    decoding="async"
-                                />
-
-                                <h3 className="text-2xl font-serif font-bold text-gray-900">
-                                    {member.name}
-                                </h3>
-
-                                <p className="mb-2 text-xs font-bold uppercase tracking-wider text-gray-500">
-                                    {member.role}
-                                </p>
-
-                                <p className="mx-auto max-w-xs text-xs md:text-sm text-gray-500 leading-relaxed">
-                                    {member.description}
-                                </p>
-
-                            </div>
-                        ))}
-
-                    </div>
-
-                </section>
-
+                
 
                 {/* =====================================================
                     7. TESTIMONIALS
